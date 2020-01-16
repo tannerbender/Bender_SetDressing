@@ -1032,3 +1032,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.16-22.09.37:621][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2020.01.16-22.09.37:747][822]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/ThirdPersonExampleMapE9272D48463464143C649EA7C5970DA8.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.01.16-22.09.37:768][822]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.171
+[2020.01.16-22.09.57:349][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.01.16-22.10.00:066][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-22.10.06:290][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform)
+[2020.01.16-22.10.11:239][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform)
+[2020.01.16-22.10.18:861][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-22.10.36:032][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-22.10.42:600][505]LogSlate: FSceneViewport::OnFocusLost() reason 0

@@ -754,3 +754,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-21.17.42:411][549]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressingEC9C8E1B49322D9E9DFC3CB07F47F315.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
 [2020.01.21-21.17.42:440][549]LogFileHelpers: Saving map 'SetDressing' took 0.182
 [2020.01.21-21.17.49:789][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.18.48:910][101]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.21-21.19.28:295][464]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.21-21.19.28:301][464]LogSlate: Window 'Project Settings' being destroyed

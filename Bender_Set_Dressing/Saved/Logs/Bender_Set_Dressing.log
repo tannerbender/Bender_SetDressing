@@ -757,3 +757,189 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-21.18.48:910][101]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2020.01.21-21.19.28:295][464]LogSlate: Window 'Project Settings' being destroyed
 [2020.01.21-21.19.28:301][464]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.21-21.27.34:911][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.01.21-21.27.34:911][508]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/SetDressing' took 0.024
+[2020.01.21-21.31.08:032][631]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.01.21-21.31.08:051][631]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.01.21-21.31.08:074][631]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.01.21-21.31.08:097][631]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.01.21-21.31.08:126][631]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.01.21-21.31.08:165][631]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.21-21.31.08:178][631]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.21-21.31.08:195][631]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.21-21.31.08:215][631]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.21-21.31.08:235][631]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.01.21-21.31.08:254][631]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.21-21.31.08:275][631]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.01.21-21.31.08:290][631]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.01.21-21.31.14:058][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.37.37:370][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.21-21.37.37:484][ 25]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing_Auto11419FF534476DFC4DE739BBFD959884B.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/ThirdPersonBP/Maps/SetDressing_Auto1.umap'
+[2020.01.21-21.37.37:487][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/SetDressing' took 0.143
+[2020.01.21-21.37.37:487][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2020.01.21-21.38.11:478][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.39.41:967][880]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-21.40.05:163][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.40.55:622][425]LogEditorViewport: Clicking on Actor (double click): Brush (Spiral Stair Brush)
+[2020.01.21-21.41.05:914][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.41.32:737][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-21.41.33:489][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.42.00:467][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.42.14:749][788]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.21-21.42.14:749][788]LogGeometryMode: Warning: Unable to resolve SpiralStairBrush Brush in new BSP, see above
+[2020.01.21-21.42.14:749][788]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.21-21.42.32:662][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.42.49:420][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-21.42.50:967][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.43.16:691][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.43.19:202][336]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-21.43.35:056][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.44.06:088][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.44.13:448][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.44.26:400][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.45.06:151][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.45.25:030][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.45.37:714][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.45.49:826][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.45.53:045][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.45.57:273][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.45.57:303][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.46.09:517][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.47.30:661][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.47.31:136][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-21.47.31:150][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.47.31:150][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-21.47.31:150][ 35]PIE: New page: PIE session: SetDressing (Jan 21, 2020, 11:47:31 AM)
+[2020.01.21-21.47.31:150][ 35]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.01.21-21.47.31:155][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004712s)
+[2020.01.21-21.47.31:156][ 35]LogAIModule: Creating AISystem for world SetDressing
+[2020.01.21-21.47.31:156][ 35]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2020.01.21-21.47.31:156][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.005883s)
+[2020.01.21-21.47.31:179][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.01.21-21.47.31:191][ 35]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-21.47.31:205][ 35]LogInit: FAudioDevice initialized.
+[2020.01.21-21.47.31:234][ 35]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.21-21.47.31:236][ 35]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.01.21-16.47.31
+[2020.01.21-21.47.31:236][ 35]LogWorld: Bringing up level for play took: 0.000789
+[2020.01.21-21.47.31:250][ 35]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 1.047
+[2020.01.21-21.47.31:250][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.04:121][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.04:121][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.48.04:153][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-21.48.04:153][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.04:180][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.48.04:184][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.01.21-21.48.04:228][975]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.21-21.48.12:132][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.48.19:315][773]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-21.48.19:327][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.19:327][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-21.48.19:327][773]PIE: New page: PIE session: SetDressing (Jan 21, 2020, 11:48:19 AM)
+[2020.01.21-21.48.19:327][773]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.01.21-21.48.19:333][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005485s)
+[2020.01.21-21.48.19:333][773]LogAIModule: Creating AISystem for world SetDressing
+[2020.01.21-21.48.19:333][773]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2020.01.21-21.48.19:333][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.006241s)
+[2020.01.21-21.48.19:355][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.01.21-21.48.19:367][773]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-21.48.19:378][773]LogInit: FAudioDevice initialized.
+[2020.01.21-21.48.19:409][773]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.21-21.48.19:410][773]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.01.21-16.48.19
+[2020.01.21-21.48.19:410][773]LogWorld: Bringing up level for play took: 0.000694
+[2020.01.21-21.48.19:424][773]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing -0.779
+[2020.01.21-21.48.19:424][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.33:368][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.33:369][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.48.33:402][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-21.48.33:402][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.48.33:431][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.48.33:434][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.21-21.48.33:469][445]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.21-21.48.40:884][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.48.58:523][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.49.20:196][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-21.49.21:820][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.49.21:886][216]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-21.49.21:897][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.49.21:898][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-21.49.21:898][216]PIE: New page: PIE session: SetDressing (Jan 21, 2020, 11:49:21 AM)
+[2020.01.21-21.49.21:898][216]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.01.21-21.49.21:902][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004616s)
+[2020.01.21-21.49.21:903][216]LogAIModule: Creating AISystem for world SetDressing
+[2020.01.21-21.49.21:903][216]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.01.21-21.49.21:903][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.005535s)
+[2020.01.21-21.49.21:928][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.21-21.49.21:939][216]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-21.49.21:951][216]LogInit: FAudioDevice initialized.
+[2020.01.21-21.49.21:979][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.21-21.49.21:981][216]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.01.21-16.49.21
+[2020.01.21-21.49.21:981][216]LogWorld: Bringing up level for play took: 0.000683
+[2020.01.21-21.49.21:996][216]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing -0.207
+[2020.01.21-21.49.21:996][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.49.35:514][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.49.35:514][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.49.35:544][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-21.49.35:544][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.49.35:572][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.49.35:575][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.21-21.49.35:617][837]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.21-21.49.41:583][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.49.49:133][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.49.49:191][431]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-21.49.49:204][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.49.49:204][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-21.49.49:204][431]PIE: New page: PIE session: SetDressing (Jan 21, 2020, 11:49:49 AM)
+[2020.01.21-21.49.49:204][431]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.01.21-21.49.49:210][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005538s)
+[2020.01.21-21.49.49:210][431]LogAIModule: Creating AISystem for world SetDressing
+[2020.01.21-21.49.49:211][431]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2020.01.21-21.49.49:211][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.006341s)
+[2020.01.21-21.49.49:233][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.21-21.49.49:243][431]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-21.49.49:255][431]LogInit: FAudioDevice initialized.
+[2020.01.21-21.49.49:285][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.21-21.49.49:287][431]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.01.21-16.49.49
+[2020.01.21-21.49.49:287][431]LogWorld: Bringing up level for play took: 0.000623
+[2020.01.21-21.49.49:300][431]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing -0.903
+[2020.01.21-21.49.49:300][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.50.17:342][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.50.17:342][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.50.17:374][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-21.50.17:375][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.01.21-21.50.17:416][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.50.17:418][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.21-21.50.17:452][792]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.21-21.50.19:085][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.50.59:317][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.50.59:351][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.21-21.50.59:496][785]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing_Auto2A24DEAC441503C379BFF46A466ADB68F.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/ThirdPersonBP/Maps/SetDressing_Auto2.umap'
+[2020.01.21-21.50.59:499][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/SetDressing' took 0.170
+[2020.01.21-21.50.59:499][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.170
+[2020.01.21-21.51.49:035][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.51.50:453][880]LogActorFactory: Actor Factory created Cube
+[2020.01.21-21.51.56:673][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.52.04:590][552]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-21.52.19:337][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.52.55:327][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.53.27:965][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.53.31:004][696]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.21-21.53.31:004][696]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.01.21-21.53.31:004][696]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.21-21.53.39:778][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-21.53.54:024][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.54.42:008][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.54.46:521][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.54.55:069][314]LogEditorViewport: Clicking Background
+[2020.01.21-21.54.56:558][492]LogEditorViewport: Clicking Background
+[2020.01.21-21.54.57:223][571]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.01.21-21.55.05:241][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.55.22:056][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.55.22:226][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.55.22:968][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.55.25:855][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.01.21-21.55.25:862][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.55.25:893][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.21-21.55.26:045][979]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressingC49DD3904BEC7C5D5D8A04831E9EEACB.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.01.21-21.55.26:078][979]LogFileHelpers: Saving map 'SetDressing' took 0.211
+[2020.01.21-21.55.26:095][979]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing_BuiltData58719641429A6D20F5D2D5B82C0728BD.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing_BuiltData.uasset'
+[2020.01.21-21.55.29:047][330]LogSlate: FSceneViewport::OnFocusLost() reason 0

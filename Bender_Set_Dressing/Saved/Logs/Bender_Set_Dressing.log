@@ -727,3 +727,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-21.16.09:334][ 92]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/M_AssetPlatformAD2B222E49F4768E654C1FB9E537C3D6.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/Materials/M_AssetPlatform.uasset'
 [2020.01.21-21.16.09:382][ 92]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/M_Metal_GoldB99A43C04A6730F06895C0A4FD1CB9ED.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/Materials/M_Metal_Gold.uasset'
 [2020.01.21-21.16.12:196][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.16.39:050][723]LogSlate: Window 'New Level' being destroyed
+[2020.01.21-21.16.39:058][723]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.21-21.16.39:074][723]LightingResults: New page: Lighting Build
+[2020.01.21-21.16.39:074][723]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.01.21-21.16.39:076][723]MapCheck: New page: Map Check
+[2020.01.21-21.16.39:076][723]LightingResults: New page: Lighting Build
+[2020.01.21-21.16.39:105][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.21-21.16.39:126][723]LogAIModule: Creating AISystem for world Untitled_1
+[2020.01.21-21.16.39:132][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.21-21.16.39:160][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.01.21-21.16.39:165][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.21-21.16.39:166][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2020.01.21-21.16.39:166][723]LogFileHelpers: Loading map 'Template_Default' took 0.109
+[2020.01.21-21.16.48:909][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-21.16.55:684][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.17.14:721][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.17.14:836][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.17.15:394][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-21.17.34:524][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.21-21.17.34:525][549]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.21-21.17.34:567][549]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.21-21.17.42:247][549]LogSlate: Window 'Save Level As' being destroyed
+[2020.01.21-21.17.42:285][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.01.21-21.17.42:312][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.01.21-21.17.42:411][549]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressingEC9C8E1B49322D9E9DFC3CB07F47F315.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.01.21-21.17.42:440][549]LogFileHelpers: Saving map 'SetDressing' took 0.182
+[2020.01.21-21.17.49:789][419]LogSlate: FSceneViewport::OnFocusLost() reason 0

@@ -940,3 +940,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-20.32.38:473][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.01.28-20.33.02:981][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.01.28-20.33.04:327][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.01.28-20.33.21:734][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.28-20.33.37:836][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.33.40:944][ 56]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.28-20.33.46:895][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.33.52:028][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.34.21:321][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.34.45:242][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.34.52:193][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.01.28-20.34.57:775][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.35.17:696][374]Cmd: DUPLICATE
+[2020.01.28-20.35.17:696][374]Cmd: ACTOR DUPLICATE
+[2020.01.28-20.36.15:544][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.27:431][585]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.28-20.36.32:480][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.45:018][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.01.28-20.36.49:209][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.17:058][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.32:247][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.36:556][742]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2020.01.28-20.37.36:556][742]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.28-20.38.25:036][393]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2020.01.28-20.38.25:036][393]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.28-20.38.33:369][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.01.28-20.38.42:564][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.38.43:690][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.01.28-20.38.43:696][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.38.43:728][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.01.28-20.38.43:921][570]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing180D383543C39C06AE4F35BD7423062D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.01.28-20.38.43:949][570]LogFileHelpers: Saving map 'SetDressing' took 0.249
+[2020.01.28-20.38.46:192][839]LogSlate: FSceneViewport::OnFocusLost() reason 0

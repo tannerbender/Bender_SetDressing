@@ -1467,3 +1467,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-20.55.17:262][324]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing4998C5E04AEAB12983D970B666C2160D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
 [2020.02.06-20.55.17:285][324]LogFileHelpers: Saving map 'SetDressing' took 0.296
 [2020.02.06-20.55.20:153][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.56.03:351][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.56.08:904][386]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush27)
+[2020.02.06-20.56.17:455][323]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.56.27:536][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.56.28:568][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.06-20.56.28:573][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.56.28:602][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.02.06-20.56.28:857][624]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing80B5042B499A5117F016B18348825569.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.06-20.56.28:879][624]LogFileHelpers: Saving map 'SetDressing' took 0.302
+[2020.02.06-20.56.31:342][918]LogSlate: FSceneViewport::OnFocusLost() reason 0

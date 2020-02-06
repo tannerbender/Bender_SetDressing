@@ -1,0 +1,912 @@
+﻿Log file open, 01/30/20 16:34:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Bender_Set_Dressing
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279164
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.30-21.34.33:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:347][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:351][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.30-21.34.33:351][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.30-21.34.33:352][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.30-21.34.33:352][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.30-21.34.33:352][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.30-21.34.33:366][  0]LogHAL: Display: Platform has ~ 32 GB [34308358144 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.30-21.34.33:366][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.30-21.34.33:366][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.30-21.34.33:366][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:366][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.30-21.34.33:366][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.30-21.34.33:366][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:366][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.30-21.34.33:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.30-21.34.33:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.30-21.34.33:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Config/Windows/Engine.ini]
+[2020.01.30-21.34.33:368][  0]LogInit: Computer: IULB-V-FF052-16
+[2020.01.30-21.34.33:368][  0]LogInit: User: tlbender
+[2020.01.30-21.34.33:368][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.30-21.34.33:368][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.30-21.34.33:369][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.01.30-21.34.33:369][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.30-21.34.33:369][  0]LogMemory: Process Physical Memory: 99.82 MB used, 99.83 MB peak
+[2020.01.30-21.34.33:369][  0]LogMemory: Process Virtual Memory: 94.35 MB used, 94.35 MB peak
+[2020.01.30-21.34.33:369][  0]LogMemory: Physical Memory: 6707.29 MB used,  26011.71 MB free, 32719.00 MB total
+[2020.01.30-21.34.33:369][  0]LogMemory: Virtual Memory: 4678.80 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.01.30-21.34.33:391][  0]LogInit: Using OS detected language (en-US).
+[2020.01.30-21.34.33:391][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.30-21.34.33:392][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.30-21.34.33:592][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.30-21.34.33:624][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.30-21.34.33:624][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.30-21.34.33:795][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.30-21.34.33:795][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.30-21.34.33:863][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.01.30-21.34.33:863][  0]LogD3D11RHI:       8079/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.30-21.34.33:866][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.30-21.34.33:866][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.30-21.34.33:866][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.30-21.34.33:872][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.30-21.34.33:872][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.30-21.34.33:872][  0]LogWindows: EnumDisplayDevices:
+[2020.01.30-21.34.33:872][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.01.30-21.34.33:872][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.30-21.34.33:872][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.30-21.34.33:873][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.30-21.34.33:873][  0]LogWindows:    4. 'Freedom Scientific Accessibility Display Driver' (P:0 D:0)
+[2020.01.30-21.34.33:873][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.30-21.34.33:873][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.01.30-21.34.33:873][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2020.01.30-21.34.33:873][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2020.01.30-21.34.33:873][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.01.30-21.34.33:911][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.30-21.34.33:916][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.30-21.34.33:916][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.30-21.34.33:916][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.30-21.34.33:924][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.30-21.34.34:296][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.30-21.34.34:309][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.30-21.34.34:322][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.30-21.34.34:335][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.30-21.34.34:349][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.30-21.34.34:362][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.30-21.34.34:374][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.30-21.34.34:387][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.30-21.34.34:393][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.30-21.34.34:469][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.30-21.34.34:471][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.30-21.34.34:521][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.30-21.34.34:521][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.30-21.34.34:544][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.30-21.34.34:544][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.30-21.34.34:556][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.30-21.34.34:567][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.30-21.34.34:578][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.30-21.34.34:591][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.30-21.34.34:631][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.30-21.34.34:631][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.30-21.34.34:631][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.30-21.34.34:640][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.30-21.34.34:687][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Intermediate/Shaders/WorkingDirectory/792/).
+[2020.01.30-21.34.34:687][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tlbender/AppData/Local/Temp/UnrealShaderWorkingDir/D84F0EBD421A8B3177E5E6B0742D202F/'.
+[2020.01.30-21.34.34:689][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.30-21.34.34:689][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.30-21.34.34:689][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.30-21.34.35:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.30-21.34.35:257][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/tlbender/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.30-21.34.35:257][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tlbender/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.30-21.34.35:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.30-21.34.35:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.30-21.34.35:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.30-21.34.35:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.30-21.34.35:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.30-21.34.35:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.30-21.34.35:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.30-21.34.35:283][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tlbender/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.30-21.34.35:283][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.30-21.34.35:283][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.30-21.34.35:307][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.30-21.34.35:309][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.30-21.34.35:309][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.30-21.34.35:389][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2020.01.30-21.34.35:693][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.30-21.34.35:828][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.30-21.34.35:828][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.30-21.34.35:828][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.30-21.34.35:828][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.30-21.34.35:828][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.30-21.34.35:839][  0]LogNetVersion: Bender_Set_Dressing 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3302712745)
+[2020.01.30-21.34.36:227][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041294 seconds
+[2020.01.30-21.34.36:233][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.30-21.34.36:233][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.30-21.34.36:233][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.30-21.34.37:011][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.30-21.34.37:025][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.30-21.34.37:129][  0]SourceControl: Source control is disabled
+[2020.01.30-21.34.37:129][  0]SourceControl: Source control is disabled
+[2020.01.30-21.34.37:130][  0]SourceControl: Source control is disabled
+[2020.01.30-21.34.37:131][  0]SourceControl: Source control is disabled
+[2020.01.30-21.34.37:199][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.30-21.34.37:284][  0]LogOcInput: OculusInput pre-init called
+[2020.01.30-21.34.37:908][  0]LogEngine: Initializing Engine...
+[2020.01.30-21.34.37:909][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.30-21.34.37:910][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.30-21.34.38:105][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.30-21.34.38:119][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.30-21.34.38:134][  0]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.30-21.34.38:173][  0]LogInit: FAudioDevice initialized.
+[2020.01.30-21.34.38:173][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.30-21.34.38:459][  0]LogDerivedDataCache: Saved boot cache 0.29s 73MB C:/Users/tlbender/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.30-21.34.38:463][  0]LogInit: Texture streaming: Enabled
+[2020.01.30-21.34.38:479][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.30-21.34.38:501][  0]LogInit: Transaction tracking system initialized
+[2020.01.30-21.34.38:524][  0]BlueprintLog: New page: Editor Load
+[2020.01.30-21.34.38:600][  0]LocalizationService: Localization service is disabled
+[2020.01.30-21.34.38:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/' took 0.02s
+[2020.01.30-21.34.38:964][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.30-21.34.38:964][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.30-21.34.39:120][  0]SourceControl: Source control is disabled
+[2020.01.30-21.34.39:120][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.30-21.34.39:120][  0]LightingResults: New page: Lighting Build
+[2020.01.30-21.34.39:123][  0]MapCheck: New page: Map Check
+[2020.01.30-21.34.39:123][  0]LightingResults: New page: Lighting Build
+[2020.01.30-21.34.39:148][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.01.30-21.34.40:412][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.01.30-21.34.40:415][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.01.30-21.34.41:158][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2020.01.30-21.34.41:347][  0]LogAIModule: Creating AISystem for world SetDressing
+[2020.01.30-21.34.41:357][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.30-21.34.41:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.01.30-21.34.41:381][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.30-21.34.41:381][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.01.30-21.34.41:381][  0]LogFileHelpers: Loading map 'SetDressing' took 2.262
+[2020.01.30-21.34.42:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-21.34.42:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-21.34.42:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-21.34.42:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-21.34.42:614][  0]LogCollectionManager: Loaded 0 collections in 0.002255 seconds
+[2020.01.30-21.34.43:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Collections/' took 0.01s
+[2020.01.30-21.34.43:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/Developers/tlbender/Collections/' took 0.01s
+[2020.01.30-21.34.43:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/Collections/' took 0.01s
+[2020.01.30-21.34.43:041][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.30-21.34.43:053][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2732 classes and 659 folders.
+[2020.01.30-21.34.43:062][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.30-21.34.43:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:079][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:161][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-21.34.43:470][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.30-21.34.43:478][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.30-21.34.43:502][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-21.34.43:520][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.01.30-21.34.43:555][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.30-21.34.43:555][  0]LogLoad: (Engine Initialization) Total time: 12.33 seconds
+[2020.01.30-21.34.43:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.30-21.34.43:603][  0]LogAssetRegistry: Asset discovery search completed in 8.2376 seconds
+[2020.01.30-21.34.43:608][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.30-21.34.43:608][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2020.01.30-21.34.43:610][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.30-21.34.43:623][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.30-21.34.43:625][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.30-21.34.43:637][  0]LogSlate: Took 0.007127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.30-21.34.43:833][  2]LogRenderer: Reallocating scene render targets to support 940x508 Format 10 NumSamples 1 (Frame:1).
+[2020.01.30-21.34.48:404][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.34.48:547][527]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:517).
+[2020.01.30-21.35.04:995][481]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2020.01.30-21.35.05:043][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-21.35.08:862][817]Cmd: DELETE
+[2020.01.30-21.35.08:862][817]Cmd: ACTOR DELETE
+[2020.01.30-21.35.08:871][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.30-21.35.08:893][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.30-21.35.08:893][817]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.01.30-21.35.19:920][124]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x400)
+[2020.01.30-21.35.19:962][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-21.35.20:925][219]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.01.30-21.35.27:309][926]Cmd: DELETE
+[2020.01.30-21.35.27:309][926]Cmd: ACTOR DELETE
+[2020.01.30-21.35.27:314][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.30-21.35.27:339][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.01.30-21.35.27:339][926]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.01.30-21.35.34:756][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.35.38:991][295]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.30-21.35.50:726][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.36.04:336][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.36.45:816][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-21.37.17:452][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-21.37.36:417][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-21.42.07:582][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.43.20:758][766]LogSlate: Took 0.003996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.30-21.43.20:773][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/.mayaSwatches/stairs.mb.swatches'. Unknown extension 'swatches'.
+[2020.01.30-21.43.20:779][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/.mayaSwatches/stairsRender.mb.swatches'. Unknown extension 'swatches'.
+[2020.01.30-21.43.20:788][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/3dmaxStair.max'. Unknown extension 'max'.
+[2020.01.30-21.43.20:801][766]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/fbxStair.fbx)
+[2020.01.30-21.43.20:835][766]LogFbx: Loading FBX Scene from C:\Users\tlbender\Downloads\StairsLat\StairsLat/fbxStair.fbx
+[2020.01.30-21.43.21:244][766]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.30-21.43.29:495][766]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.30-21.43.29:687][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L'
+[2020.01.30-21.43.29:687][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L'
+[2020.01.30-21.43.30:114][766]LogTexture: Display: Building textures: CNCR03L (BGRA8, 1251X746)
+[2020.01.30-21.43.30:145][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB'
+[2020.01.30-21.43.30:145][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB'
+[2020.01.30-21.43.30:158][766]LogTexture: Display: Building textures: CNCR03LB (BGRA8, 1251X746)
+[2020.01.30-21.43.30:182][766]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.30-21.43.30:197][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L'
+[2020.01.30-21.43.30:197][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L'
+[2020.01.30-21.43.30:233][766]LogTexture: Display: Building textures: CNCR04L (BGRA8, 1280X939)
+[2020.01.30-21.43.30:519][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB'
+[2020.01.30-21.43.30:520][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB'
+[2020.01.30-21.43.30:540][766]LogTexture: Display: Building textures: CNCR04LB (BGRA8, 1280X939)
+[2020.01.30-21.43.30:568][766]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.01.30-21.43.30:587][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmite'
+[2020.01.30-21.43.30:587][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmite'
+[2020.01.30-21.43.30:618][766]LogTexture: Display: Building textures: Marmite (AutoDXT, 1280X1024)
+[2020.01.30-21.43.31:078][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular'
+[2020.01.30-21.43.31:079][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular'
+[2020.01.30-21.43.31:115][766]LogTexture: Display: Building textures: Marmitespecular (AutoDXT, 1280X1024)
+[2020.01.30-21.43.31:888][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump'
+[2020.01.30-21.43.31:888][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump'
+[2020.01.30-21.43.31:922][766]LogTexture: Display: Building textures: Marmitebump (BC5, 1280X1024)
+[2020.01.30-21.43.32:079][766]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.30-21.43.32:099][766]LogFbx: Display: Triangulating static mesh stairs1
+[2020.01.30-21.43.32:142][766]LogStaticMesh: Building static mesh fbxStair...
+[2020.01.30-21.43.32:194][766]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/3Dmodels/stairs/StairsLat/fbxStair.fbxStair
+[2020.01.30-21.43.32:195][766]LogStaticMesh: Warning: fbxStair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.30-21.43.32:195][766]LogStaticMesh: Warning: fbxStair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.30-21.43.32:206][766]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.30-21.43.32:206][766]FBXImport: Warning: fbxStair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.01.30-21.43.32:206][766]FBXImport: Warning: fbxStair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.01.30-21.43.32:232][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/obj/objStair.mtl'. Unknown extension 'mtl'.
+[2020.01.30-21.43.32:237][766]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/obj/objStair.obj)
+[2020.01.30-21.43.32:255][766]LogFbx: Loading FBX Scene from C:\Users\tlbender\Downloads\StairsLat\StairsLat/obj/objStair.obj
+[2020.01.30-21.43.32:274][766]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.30-21.43.37:204][766]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.30-21.43.37:261][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/CNCR03L'
+[2020.01.30-21.43.37:261][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/CNCR03L'
+[2020.01.30-21.43.37:262][766]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\tlbender\Downloads\StairsLat\StairsLat\obj\CNCR03L.JPG
+[2020.01.30-21.43.37:265][766]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2020.01.30-21.43.37:280][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/CNCR04L'
+[2020.01.30-21.43.37:281][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/CNCR04L'
+[2020.01.30-21.43.37:281][766]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\tlbender\Downloads\StairsLat\StairsLat\obj\CNCR04L.JPG
+[2020.01.30-21.43.37:289][766]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2020.01.30-21.43.37:456][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/-mm_0_0_539936_Marmite'
+[2020.01.30-21.43.37:456][766]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/-mm_0_0_539936_Marmite'
+[2020.01.30-21.43.37:456][766]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\tlbender\Downloads\StairsLat\StairsLat\obj\-mm 0 0.539936 Marmite.jpg
+[2020.01.30-21.43.37:460][766]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2020.01.30-21.43.37:477][766]LogFbx: Display: Triangulating static mesh stairs1
+[2020.01.30-21.43.37:532][766]LogStaticMesh: Building static mesh objStair...
+[2020.01.30-21.43.37:591][766]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/3Dmodels/stairs/StairsLat/obj/objStair.objStair
+[2020.01.30-21.43.37:592][766]LogStaticMesh: Warning: objStair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.30-21.43.37:592][766]LogStaticMesh: Warning: objStair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.30-21.43.37:602][766]FBXImport: Warning: objStair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.01.30-21.43.37:602][766]FBXImport: Warning: objStair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.01.30-21.43.37:617][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/renders/stair1.jpg)
+[2020.01.30-21.43.37:771][766]LogTexture: Display: Building textures: stair1 (BGRA8, 2484X1978)
+[2020.01.30-21.43.38:339][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/renders/stair2.jpg)
+[2020.01.30-21.43.38:484][766]LogTexture: Display: Building textures: stair2 (BGRA8, 2484X1978)
+[2020.01.30-21.43.38:668][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/Stair.c4d'. Unknown extension 'c4d'.
+[2020.01.30-21.43.38:674][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/stairs.mb'. Unknown extension 'mb'.
+[2020.01.30-21.43.38:680][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/stairsRender.mb'. Unknown extension 'mb'.
+[2020.01.30-21.43.38:694][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/CNCR03L.JPG_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:707][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/CNCR03LB.JPG_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:717][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/CNCR04L.JPG_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:729][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/CNCR04LB.JPG_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:744][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/england020.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:761][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/england020b.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:777][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/germany010.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:795][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/germany010b.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:815][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/Marmite.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:837][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/Marmitebump.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:861][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/Marmitespecular.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:885][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/sweden008.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:915][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/sweden008b.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:950][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/wndw038M.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.38:986][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/wood05.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.39:029][766]LogAssetTools: Warning: Failed to import 'C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/.mayaSwatches/wood05b.jpg_hcm.swatch'. Unknown extension 'swatch'.
+[2020.01.30-21.43.39:087][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/CNCR03L.JPG)
+[2020.01.30-21.43.39:118][766]LogTexture: Display: Building textures: CNCR03L (BGRA8, 1251X746)
+[2020.01.30-21.43.39:310][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/CNCR03LB.JPG)
+[2020.01.30-21.43.39:327][766]LogTexture: Display: Building textures: CNCR03LB (BGRA8, 1251X746)
+[2020.01.30-21.43.39:767][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/CNCR04L.JPG)
+[2020.01.30-21.43.39:806][766]LogTexture: Display: Building textures: CNCR04L (BGRA8, 1280X939)
+[2020.01.30-21.43.39:888][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/CNCR04LB.JPG)
+[2020.01.30-21.43.39:909][766]LogTexture: Display: Building textures: CNCR04LB (BGRA8, 1280X939)
+[2020.01.30-21.43.39:982][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/Marmite.jpg)
+[2020.01.30-21.43.40:018][766]LogTexture: Display: Building textures: Marmite (AutoDXT, 1280X1024)
+[2020.01.30-21.43.40:563][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/Marmitebump.jpg)
+[2020.01.30-21.43.40:604][766]LogTexture: Display: Building textures: Marmitebump (AutoDXT, 1280X1024)
+[2020.01.30-21.43.41:449][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/Marmitespecular.jpg)
+[2020.01.30-21.43.41:482][766]LogTexture: Display: Building textures: Marmitespecular (AutoDXT, 1280X1024)
+[2020.01.30-21.43.42:261][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlbender\Downloads\StairsLat\StairsLat/textures/uffizi_probe.hdr)
+[2020.01.30-21.43.42:407][766]LogTexture: Display: Building textures: uffizi_probe (RGBA16F, 1500X1500)
+[2020.01.30-21.43.57:174][999]LogSlate: Window 'Message Log' being destroyed
+[2020.01.30-21.43.57:183][999]LogSlate: Window 'Message Log' being destroyed
+[2020.01.30-21.44.04:583][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.44.06:405][ 76]LogMaterial: Display: Missing cached shader map for material stair1_Mat, compiling. 
+[2020.01.30-21.44.20:467][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.44.21:810][868]LogMaterial: Display: Missing cached shader map for material stair2_Mat, compiling. 
+[2020.01.30-21.44.43:147][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.44.44:718][485]LogMaterial: Display: Missing cached shader map for material Marmitebump_Mat, compiling. 
+[2020.01.30-21.45.02:428][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.45.02:616][537]LogActorFactory: Actor Factory created fbxStair
+[2020.01.30-21.45.03:066][583]LogActorFactory: Actor Factory created fbxStair
+[2020.01.30-21.45.17:123][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.45.45:999][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.46.17:728][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.01.30-21.46.17:965][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing_Auto14EAEC16840B48E1E5C9CF39067BF41E3.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/ThirdPersonBP/Maps/SetDressing_Auto1.umap'
+[2020.01.30-21.46.17:969][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/SetDressing' took 0.265
+[2020.01.30-21.46.17:969][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.265
+[2020.01.30-21.46.17:972][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/fbxStair] ([1] browsable assets)...
+[2020.01.30-21.46.17:983][336]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/3Dmodels/stairs/StairsLat/fbxStair.fbxStair]
+[2020.01.30-21.46.17:983][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/fbxStair]
+[2020.01.30-21.46.18:003][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/fbxStair_Auto1EF3A36F446CE2BEAB88F8CBBD77C3413.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/fbxStair_Auto1.uasset'
+[2020.01.30-21.46.18:004][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/lambert2] ([1] browsable assets)...
+[2020.01.30-21.46.18:016][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/lambert2.lambert2]
+[2020.01.30-21.46.18:016][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/lambert2]
+[2020.01.30-21.46.18:034][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert2_Auto192169F1646C63889D436E39CE374659E.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/lambert2_Auto1.uasset'
+[2020.01.30-21.46.18:035][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L] ([1] browsable assets)...
+[2020.01.30-21.46.18:040][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L.CNCR03L]
+[2020.01.30-21.46.18:040][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L]
+[2020.01.30-21.46.18:054][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03L_Auto151C0CD6B4D7E8E4C452C0497F4934314.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L_Auto1.uasset'
+[2020.01.30-21.46.18:056][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB] ([1] browsable assets)...
+[2020.01.30-21.46.18:060][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB.CNCR03LB]
+[2020.01.30-21.46.18:060][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB]
+[2020.01.30-21.46.18:149][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03LB_Auto14C57717B4BB86D5C3D0C779F37D80C03.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB_Auto1.uasset'
+[2020.01.30-21.46.18:151][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/lambert3] ([1] browsable assets)...
+[2020.01.30-21.46.18:161][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/lambert3.lambert3]
+[2020.01.30-21.46.18:161][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/lambert3]
+[2020.01.30-21.46.18:181][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert3_Auto167750D10440453AE925840927F534E37.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/lambert3_Auto1.uasset'
+[2020.01.30-21.46.18:183][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L] ([1] browsable assets)...
+[2020.01.30-21.46.18:188][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L.CNCR04L]
+[2020.01.30-21.46.18:188][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L]
+[2020.01.30-21.46.18:204][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04L_Auto1D02F9D3749716D240F84E98AAA060F51.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L_Auto1.uasset'
+[2020.01.30-21.46.18:206][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB] ([1] browsable assets)...
+[2020.01.30-21.46.18:211][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB.CNCR04LB]
+[2020.01.30-21.46.18:211][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB]
+[2020.01.30-21.46.18:224][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04LB_Auto1FA33F41A43DCA1C7413421B8A9537152.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB_Auto1.uasset'
+[2020.01.30-21.46.18:226][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/blinn1] ([1] browsable assets)...
+[2020.01.30-21.46.18:235][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/blinn1.blinn1]
+[2020.01.30-21.46.18:235][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/blinn1]
+[2020.01.30-21.46.18:254][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/blinn1_Auto121BE8EB74A1F9215B065DF86CE35C855.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/blinn1_Auto1.uasset'
+[2020.01.30-21.46.18:255][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmite] ([1] browsable assets)...
+[2020.01.30-21.46.18:260][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/Marmite.Marmite]
+[2020.01.30-21.46.18:260][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmite]
+[2020.01.30-21.46.18:274][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmite_Auto18B98D82B401DA793AD5B898F8289202C.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmite_Auto1.uasset'
+[2020.01.30-21.46.18:275][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular] ([1] browsable assets)...
+[2020.01.30-21.46.18:281][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular.Marmitespecular]
+[2020.01.30-21.46.18:281][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular]
+[2020.01.30-21.46.18:296][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitespecular_Auto1795EEB244AFDCEDC0E720D9F9611D3C9.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular_Auto1.uasset'
+[2020.01.30-21.46.18:297][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump] ([1] browsable assets)...
+[2020.01.30-21.46.18:303][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump.Marmitebump]
+[2020.01.30-21.46.18:303][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump]
+[2020.01.30-21.46.18:318][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitebump_Auto15DDE91AF41AA5479078DF2A9F6F14E38.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump_Auto1.uasset'
+[2020.01.30-21.46.18:320][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/objStair] ([1] browsable assets)...
+[2020.01.30-21.46.18:330][336]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/3Dmodels/stairs/StairsLat/obj/objStair.objStair]
+[2020.01.30-21.46.18:330][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/objStair]
+[2020.01.30-21.46.18:349][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/objStair_Auto1998429054568E875B6D6CBAB48B751EA.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/objStair_Auto1.uasset'
+[2020.01.30-21.46.18:351][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert2SG] ([1] browsable assets)...
+[2020.01.30-21.46.18:360][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert2SG.lambert2SG]
+[2020.01.30-21.46.18:361][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert2SG]
+[2020.01.30-21.46.18:375][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert2SG_Auto18A11AC2349A482F9D1912CA181F71C77.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert2SG_Auto1.uasset'
+[2020.01.30-21.46.18:378][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1_Mat] ([1] browsable assets)...
+[2020.01.30-21.46.18:388][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1_Mat.stair1_Mat]
+[2020.01.30-21.46.18:388][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1_Mat]
+[2020.01.30-21.46.18:405][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair1_Mat_Auto1CE020FDD4F96532277BB139045CEE1F7.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1_Mat_Auto1.uasset'
+[2020.01.30-21.46.18:407][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert3SG] ([1] browsable assets)...
+[2020.01.30-21.46.18:418][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert3SG.lambert3SG]
+[2020.01.30-21.46.18:418][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert3SG]
+[2020.01.30-21.46.18:432][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert3SG_Auto170EB3AF0425735F0B05579A4E20A018D.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert3SG_Auto1.uasset'
+[2020.01.30-21.46.18:435][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2_Mat] ([1] browsable assets)...
+[2020.01.30-21.46.18:446][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2_Mat.stair2_Mat]
+[2020.01.30-21.46.18:446][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2_Mat]
+[2020.01.30-21.46.18:464][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair2_Mat_Auto1BD53EC624B5DD8BB19E1AAAE804F61B1.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2_Mat_Auto1.uasset'
+[2020.01.30-21.46.18:466][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/blinn1SG] ([1] browsable assets)...
+[2020.01.30-21.46.18:476][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/obj/blinn1SG.blinn1SG]
+[2020.01.30-21.46.18:476][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/blinn1SG]
+[2020.01.30-21.46.18:492][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/blinn1SG_Auto1EA8CF1764AE1381CB74507947BD4DF07.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/obj/blinn1SG_Auto1.uasset'
+[2020.01.30-21.46.18:494][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump_Mat] ([1] browsable assets)...
+[2020.01.30-21.46.18:505][336]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump_Mat.Marmitebump_Mat]
+[2020.01.30-21.46.18:505][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump_Mat]
+[2020.01.30-21.46.18:523][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitebump_Mat_Auto199A2011C429DDBBEE2D89785C1650E6A.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump_Mat_Auto1.uasset'
+[2020.01.30-21.46.18:524][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1] ([1] browsable assets)...
+[2020.01.30-21.46.18:530][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1.stair1]
+[2020.01.30-21.46.18:530][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1]
+[2020.01.30-21.46.18:558][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair1_Auto19A481A90421BA1EA69A942B9702A2352.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1_Auto1.uasset'
+[2020.01.30-21.46.18:561][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2] ([1] browsable assets)...
+[2020.01.30-21.46.18:566][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2.stair2]
+[2020.01.30-21.46.18:566][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2]
+[2020.01.30-21.46.18:600][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair2_Auto1F23ABBD846F89CB0242873A5E0EE863F.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2_Auto1.uasset'
+[2020.01.30-21.46.18:601][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03L] ([1] browsable assets)...
+[2020.01.30-21.46.18:605][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03L.CNCR03L]
+[2020.01.30-21.46.18:605][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03L]
+[2020.01.30-21.46.18:620][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03L_Auto100825B0B4FC31096C8E6B18A8BA64E5C.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03L_Auto1.uasset'
+[2020.01.30-21.46.18:621][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03LB] ([1] browsable assets)...
+[2020.01.30-21.46.18:626][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03LB.CNCR03LB]
+[2020.01.30-21.46.18:626][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03LB]
+[2020.01.30-21.46.18:637][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03LB_Auto1C0F64F4242EF08F44AA1BCAA34FA4A7F.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03LB_Auto1.uasset'
+[2020.01.30-21.46.18:639][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04L] ([1] browsable assets)...
+[2020.01.30-21.46.18:644][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04L.CNCR04L]
+[2020.01.30-21.46.18:644][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04L]
+[2020.01.30-21.46.18:660][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04L_Auto1306B21FB4DFDC9B73B20C2A8347DCFDC.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04L_Auto1.uasset'
+[2020.01.30-21.46.18:661][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04LB] ([1] browsable assets)...
+[2020.01.30-21.46.18:667][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04LB.CNCR04LB]
+[2020.01.30-21.46.18:667][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04LB]
+[2020.01.30-21.46.18:680][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04LB_Auto1B96A975D435B6910793BC9B9EA50B9C5.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04LB_Auto1.uasset'
+[2020.01.30-21.46.18:681][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmite] ([1] browsable assets)...
+[2020.01.30-21.46.18:686][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmite.Marmite]
+[2020.01.30-21.46.18:686][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmite]
+[2020.01.30-21.46.18:703][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmite_Auto1FC84F9A84066257DF19DFF9286B0728B.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmite_Auto1.uasset'
+[2020.01.30-21.46.18:704][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump] ([1] browsable assets)...
+[2020.01.30-21.46.18:710][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump.Marmitebump]
+[2020.01.30-21.46.18:710][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump]
+[2020.01.30-21.46.18:727][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitebump_Auto1FF12691A4DA30796B54827ACDB38A3C0.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump_Auto1.uasset'
+[2020.01.30-21.46.18:729][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitespecular] ([1] browsable assets)...
+[2020.01.30-21.46.18:734][336]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitespecular.Marmitespecular]
+[2020.01.30-21.46.18:734][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitespecular]
+[2020.01.30-21.46.18:750][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitespecular_Auto1643D734A427B072FC7E7F38724095443.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitespecular_Auto1.uasset'
+[2020.01.30-21.46.18:751][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/uffizi_probe] ([1] browsable assets)...
+[2020.01.30-21.46.18:756][336]OBJ SavePackage:     Rendered thumbnail for [TextureCube /Game/StarterContent/3Dmodels/stairs/StairsLat/textures/uffizi_probe.uffizi_probe]
+[2020.01.30-21.46.18:756][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/uffizi_probe]
+[2020.01.30-21.46.18:773][336]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/uffizi_probe_Auto17F42D7E641819BC0F5E752A6872D0B6F.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/StarterContent/3Dmodels/stairs/StairsLat/textures/uffizi_probe_Auto1.uasset'
+[2020.01.30-21.46.18:775][336]LogFileHelpers: Auto-saving content packages took 0.804
+[2020.01.30-21.48.06:610][226]LogSlate: Took 0.005168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.30-21.49.45:443][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.30-21.49.46:025][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.30-21.49.50:067][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.30-21.49.50:645][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.30-21.49.53:464][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-21.56.18:698][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.30-21.56.18:940][809]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing_Auto2B26098AD4C0506BD307CCB9FA16AA8A3.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/ThirdPersonBP/Maps/SetDressing_Auto2.umap'
+[2020.01.30-21.56.18:943][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/SetDressing' took 0.267
+[2020.01.30-21.56.18:943][809]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.267
+[2020.01.30-22.06.17:716][526]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.30-22.06.19:073][685]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.30-22.06.21:706][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.06.38:637][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.06.41:433][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.30-22.06.57:887][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.07.07:701][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.07.34:332][489]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.01.30-22.07.36:091][695]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.01.30-22.07.37:094][813]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.01.30-22.08.09:050][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.09.09:623][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxStair)
+[2020.01.30-22.09.12:589][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.09.27:395][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.09.34:448][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.10.19:091][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.10.56:823][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxStair)
+[2020.01.30-22.10.59:084][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.11.10:570][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.11.52:324][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.11.52:814][620]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.30-22.11.53:097][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxStair)
+[2020.01.30-22.12.24:549][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.12.24:597][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.01.30-22.12.24:856][352]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing_Auto3C456937A449898ECD96EECA67729BAC7.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Autosaves/Game/ThirdPersonBP/Maps/SetDressing_Auto3.umap'
+[2020.01.30-22.12.24:863][352]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/SetDressing' took 0.290
+[2020.01.30-22.12.24:863][352]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2020.01.30-22.13.06:895][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.13.16:524][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.13.41:162][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.13.52:911][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.01:055][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.14.27:639][742]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.27:783][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.28:423][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.28:433][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.28:483][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.28:682][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.14.40:596][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-22.15.12:164][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.15.13:618][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.30-22.15.13:634][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-22.15.13:663][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.01.30-22.15.13:961][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressingE5B46E3949C34FC6EBB670A80DE5E4C7.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.01.30-22.15.14:002][ 91]LogFileHelpers: Saving map 'SetDressing' took 0.362
+[2020.01.30-22.15.14:016][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/fbxStair52A43AA646B3D5DDBD8C4B9BABC57DA8.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/fbxStair.uasset'
+[2020.01.30-22.15.14:034][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert2507229A24E298BEDA04D3D82E5E4292C.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/lambert2.uasset'
+[2020.01.30-22.15.14:188][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03L5A92D4984565B8C074E22C9983396FC2.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/CNCR03L.uasset'
+[2020.01.30-22.15.14:288][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03LBB2CDB3E3487718649E73369AF4DEDC34.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/CNCR03LB.uasset'
+[2020.01.30-22.15.14:308][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert3FE2D51124DFA063103B4C0A27CB59BC9.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/lambert3.uasset'
+[2020.01.30-22.15.14:508][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04LA67F86FA4FD90C812AFCAEB27595CBCE.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/CNCR04L.uasset'
+[2020.01.30-22.15.14:629][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04LB4A88C4A142702BDCF6995E9387ADF903.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/CNCR04LB.uasset'
+[2020.01.30-22.15.14:652][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/blinn1797C55F34214571D591697AB484D55C5.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/blinn1.uasset'
+[2020.01.30-22.15.14:787][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmite6978F1574676000AC37D3885A5F0B92A.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/Marmite.uasset'
+[2020.01.30-22.15.14:931][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/MarmitespecularB43473A34A4F8BD336DF26A13061101F.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/Marmitespecular.uasset'
+[2020.01.30-22.15.15:074][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitebump4A7DA58F4675E64C142B66B1FE483270.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/Marmitebump.uasset'
+[2020.01.30-22.15.15:100][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/objStair013BDF6E4A1B643190E84CBC169377BB.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/obj/objStair.uasset'
+[2020.01.30-22.15.15:120][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert2SG38A5CC6C4EB2975FA717C7B18053430B.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert2SG.uasset'
+[2020.01.30-22.15.15:139][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair1_MatBD57996345F9C3250C15AF9A640E2D3A.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1_Mat.uasset'
+[2020.01.30-22.15.15:157][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert3SG88AAAF844B2CC7260E36DEB1BEE72EAA.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/obj/lambert3SG.uasset'
+[2020.01.30-22.15.15:176][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair2_Mat6C3090B748BF2BBEBBEB519B7A51AA70.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2_Mat.uasset'
+[2020.01.30-22.15.15:195][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/blinn1SG5F3F574F417228866396F88D1AB7E39B.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/obj/blinn1SG.uasset'
+[2020.01.30-22.15.15:212][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitebump_Mat02728A154D6051C17A7908AD48279781.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump_Mat.uasset'
+[2020.01.30-22.15.15:714][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair19AF1194C4AA6CFB9B83F118D551778A8.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/renders/stair1.uasset'
+[2020.01.30-22.15.16:212][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/stair2AE4AF6BB4758A52FD06F218C1FEE04E8.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/renders/stair2.uasset'
+[2020.01.30-22.15.16:365][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03L53AA54A74BEC5899055CC0977BF65550.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03L.uasset'
+[2020.01.30-22.15.16:461][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR03LB1A652C6746BFE67E8B21AA851FE02313.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR03LB.uasset'
+[2020.01.30-22.15.16:659][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04L2F6C70FD4C67C8F467B3B08B9BC98179.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04L.uasset'
+[2020.01.30-22.15.16:772][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/CNCR04LB0B297A724773BDB5FC945BAF747A67FE.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/CNCR04LB.uasset'
+[2020.01.30-22.15.16:901][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmite2BF9CFC04B7954C46002B0A222BD62DB.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmite.uasset'
+[2020.01.30-22.15.17:049][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Marmitebump1097406E4F80017D604912B2349CB7A0.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitebump.uasset'
+[2020.01.30-22.15.17:186][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/MarmitespecularD8A0934041B8B6B6F3982EB1D76DB92A.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/Marmitespecular.uasset'
+[2020.01.30-22.15.17:311][ 91]LogSavePackage: Moving '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/uffizi_probeBD01C78D410A3DBEC75EB0B850A2D785.tmp' to '../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/stairs/StairsLat/textures/uffizi_probe.uasset'

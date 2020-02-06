@@ -1129,3 +1129,341 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-20.24.42:430][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/StaticMesh" FILE="../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/Meshes/StaticMesh.uasset" SILENT=true
 [2020.02.06-20.24.42:441][357]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/StaticMeshAD7D2C6642BCA15BB4600DA7CE63CAA7.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/Meshes/StaticMesh.uasset'
 [2020.02.06-20.24.43:578][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.25.03:287][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.25.12:092][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.25.46:576][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.26.09:329][604]Cmd: DUPLICATE
+[2020.02.06-20.26.09:329][604]Cmd: ACTOR DUPLICATE
+[2020.02.06-20.27.35:375][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-20.27.41:495][307]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.02.06-20.28.01:274][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxStair)
+[2020.02.06-20.28.24:627][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxStair)
+[2020.02.06-20.28.30:758][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxStair)
+[2020.02.06-20.28.49:512][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.28.54:682][887]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-20.28.55:518][983]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush9)
+[2020.02.06-20.28.56:403][ 85]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush9)
+[2020.02.06-20.29.19:193][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.29.26:067][516]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.02.06-20.29.27:772][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.29.41:460][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.29.50:024][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.29.59:888][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.30.07:184][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.30.23:597][358]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.30.26:921][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.30.41:309][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.06-20.30.48:747][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.06-20.30.50:588][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.31.12:068][ 59]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2020.02.06-20.31.17:368][676]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.31.49:783][506]Cmd: DUPLICATE
+[2020.02.06-20.31.49:783][506]Cmd: ACTOR DUPLICATE
+[2020.02.06-20.32.10:776][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.32.13:309][274]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush33)
+[2020.02.06-20.32.40:474][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.33.53:352][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.33.53:417][865]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.02.06-20.33.53:418][865]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.06-20.33.53:418][865]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2020.02.06-20.34.13:006][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.34.24:954][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.34.37:123][  1]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-20.34.38:885][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.34.46:178][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.34.53:707][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.34.59:569][622]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.35.00:048][675]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.35.00:524][729]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.35.03:761][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.05:422][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.09:525][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.10:906][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.13:845][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.19:964][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.25:476][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.27:358][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.29:000][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.32:636][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.34:707][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.38:051][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.41:701][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.44:043][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.46:843][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.51:527][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.54:311][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.35.56:702][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.36.00:453][678]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.00:927][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.01:268][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.01:361][775]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-20.36.01:585][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.01:863][832]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.02:326][885]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.02:385][891]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.02:906][952]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.02:968][958]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.03:295][995]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.03:488][ 17]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.04:396][124]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.04:673][156]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.05:083][203]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.05:734][280]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.06-20.36.06:691][390]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.16:186][454]Cmd: DUPLICATE
+[2020.02.06-20.36.16:186][454]Cmd: ACTOR DUPLICATE
+[2020.02.06-20.36.23:987][351]Cmd: DELETE
+[2020.02.06-20.36.23:987][351]Cmd: ACTOR DELETE
+[2020.02.06-20.36.24:004][351]LogEditorActor: Deleted Actor: Brush
+[2020.02.06-20.36.24:035][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.06-20.36.24:077][351]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2020.02.06-20.36.32:028][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.36.34:001][517]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush17)
+[2020.02.06-20.36.34:767][601]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-20.36.36:655][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.36.47:273][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.36.50:918][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.36.51:294][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.37.02:595][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.37.05:133][131]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:395935).
+[2020.02.06-20.37.09:322][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.37.11:873][921]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2020.02.06-20.37.11:878][921]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2020.02.06-20.37.12:158][921]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.02.06-20.37.12:206][921]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.02.06-20.37.12:209][921]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.02.06-20.37.12:264][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2020.02.06-20.37.12:271][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2020.02.06-20.37.12:277][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2020.02.06-20.37.12:284][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2020.02.06-20.37.12:292][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2020.02.06-20.37.12:639][921]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.02.06-20.37.12:792][921]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.02.06-20.37.12:963][921]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.02.06-20.37.13:209][921]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.02.06-20.37.13:449][921]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.06-20.37.13:664][921]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.06-20.37.14:213][921]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-20.37.14:354][921]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2020.02.06-20.37.14:444][921]LogSlate: Took 0.012737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.06-20.37.14:764][924]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-20.37.15:078][931]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-20.37.15:308][937]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-20.37.15:631][945]MaterialEditorStats: Base pass shader: 142 instructions
+[2020.02.06-20.37.15:631][945]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 216 instructions
+[2020.02.06-20.37.15:631][945]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2020.02.06-20.37.15:631][945]MaterialEditorStats: Texture samplers: 5/16
+[2020.02.06-20.37.15:631][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.02.06-20.37.15:631][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-20.37.18:495][260]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.02.06-20.37.19:571][389]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.02.06-20.37.20:424][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.37.24:390][957]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.02.06-20.37.24:414][957]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.06-20.37.24:448][958]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.02.06-20.37.24:678][965]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.02.06-20.37.24:898][971]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.02.06-20.37.25:072][976]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.06-20.37.25:382][983]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.06-20.37.25:668][992]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-20.37.26:311][  8]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-20.37.26:833][ 21]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-20.37.27:065][ 27]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-20.37.27:474][ 39]MaterialEditorStats: Base pass shader: 142 instructions
+[2020.02.06-20.37.27:474][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 216 instructions
+[2020.02.06-20.37.27:474][ 39]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2020.02.06-20.37.27:474][ 39]MaterialEditorStats: Texture samplers: 5/16
+[2020.02.06-20.37.27:474][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.02.06-20.37.27:474][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-20.37.30:453][111]LogSlate: Window 'Message' being destroyed
+[2020.02.06-20.37.30:461][111]LogSlate: Window 'WorldGridMaterial' being destroyed
+[2020.02.06-20.37.30:462][111]LogSlate: Window 'WorldGridMaterial' being destroyed
+[2020.02.06-20.37.34:478][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.37.48:046][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.38.01:645][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.38.04:235][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.38.08:285][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.38.11:907][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.38.28:931][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.38.42:856][607]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.38.46:938][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.38.59:343][543]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.03:586][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.05:616][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.09:799][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.10:987][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.12:836][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.14:475][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.22:332][238]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.23:807][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.31:154][263]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.32:640][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.37:899][ 58]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.38:818][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.42:907][648]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.43:943][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.51:068][579]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.52:556][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.39.57:649][327]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.39.58:579][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.40.03:329][971]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.40.04:250][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.40.09:332][661]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.40.10:044][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.40.56:290][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.06-20.40.56:887][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.41.00:467][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.41.01:745][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.41.03:904][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.41.18:009][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.06-20.41.24:266][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.06-20.41.28:776][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.06-20.41.36:412][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.02.06-20.41.58:853][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.06-20.42.03:565][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2020.02.06-20.42.06:415][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.42.13:401][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2020.02.06-20.42.16:658][636]Cmd: DELETE
+[2020.02.06-20.42.16:658][636]Cmd: ACTOR DELETE
+[2020.02.06-20.42.16:667][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.06-20.42.16:692][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.06-20.42.16:693][636]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.02.06-20.42.20:517][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.42.27:318][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.42.40:170][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.42.58:354][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.43.00:118][814]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.06-20.43.22:004][244]Cmd: DELETE
+[2020.02.06-20.43.22:004][244]Cmd: ACTOR DELETE
+[2020.02.06-20.43.22:016][244]LogEditorActor: Deleted Actor: Brush
+[2020.02.06-20.43.22:037][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.02.06-20.43.22:077][244]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2020.02.06-20.43.27:119][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.43.27:778][895]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.06-20.43.30:962][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.44.07:622][402]Cmd: TRANSACTION UNDO
+[2020.02.06-20.44.07:622][402]LogEditorTransaction: Undo Move Actors
+[2020.02.06-20.44.07:692][402]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.02.06-20.44.07:692][402]LogGeometryMode: Warning: Unable to resolve BoxBrush34_16 Brush in new BSP, see above
+[2020.02.06-20.44.07:692][402]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-20.44.08:528][499]Cmd: TRANSACTION UNDO
+[2020.02.06-20.44.08:528][499]LogEditorTransaction: Undo Move Actors
+[2020.02.06-20.44.08:593][499]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.02.06-20.44.08:593][499]LogGeometryMode: Warning: Unable to resolve BoxBrush34_16 Brush in new BSP, see above
+[2020.02.06-20.44.08:593][499]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-20.44.14:683][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.44.30:744][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.45.04:867][864]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-20.45.27:677][471]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush34)
+[2020.02.06-20.46.06:099][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.46.08:431][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.46.18:390][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.46.33:063][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.08:070][233]LogGeometryMode: Warning: Unable to find CylinderBrush Brush(s) in new BSP
+[2020.02.06-20.47.08:070][233]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-20.47.13:693][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone3)
+[2020.02.06-20.47.15:651][100]Cmd: DELETE
+[2020.02.06-20.47.15:651][100]Cmd: ACTOR DELETE
+[2020.02.06-20.47.15:665][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.06-20.47.15:692][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.06-20.47.15:692][100]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.06-20.47.26:789][394]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.47.31:454][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.37:338][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.39:481][900]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.47.41:424][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.44:279][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.50:434][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.51:928][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.53:375][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.54:960][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.56:307][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.58:169][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.47.59:452][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.01:149][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.03:067][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.05:042][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.07:347][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.10:359][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.12:043][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.14:901][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.16:903][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.18:523][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.28:247][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2020.02.06-20.48.29:389][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2020.02.06-20.48.29:767][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2020.02.06-20.48.31:171][  4]Cmd: DELETE
+[2020.02.06-20.48.31:171][  4]Cmd: ACTOR DELETE
+[2020.02.06-20.48.31:182][  4]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.06-20.48.31:204][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.06-20.48.31:205][  4]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.06-20.48.36:587][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.40:365][ 84]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.06-20.48.44:084][508]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.48.47:246][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.51:180][349]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.48.52:696][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.54:246][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.55:647][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.58:198][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.48.59:505][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.00:907][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.06:116][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.07:609][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.11:694][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.13:743][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.15:369][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.26:617][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.33:128][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-20.49.34:907][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.37:922][828]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush35)
+[2020.02.06-20.49.39:886][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.49.50:403][250]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush35)
+[2020.02.06-20.50.35:474][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.51.29:912][872]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.51.31:940][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.51.40:858][143]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.51.43:361][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.51.56:218][946]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.51.58:033][162]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.52.02:624][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.08:453][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.11:342][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.13:203][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.14:489][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.15:874][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.17:723][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.19:110][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.19:166][619]LogMaterial: Display: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2020.02.06-20.52.20:573][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.52.58:993][152]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.53.01:848][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.53.10:237][460]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.53.12:857][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.53.17:891][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.53.32:230][ 21]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.53.34:142][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.53.37:449][633]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.53.39:973][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.53.45:948][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.06-20.53.47:535][796]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.54.10:133][472]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.54.19:283][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.25:201][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.28:000][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.35:041][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.36:968][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.41:158][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.48:304][946]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.54.50:047][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.53:706][585]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.54.54:943][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.54.58:923][183]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-20.55.00:208][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.55.15:792][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.55.16:979][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.06-20.55.16:985][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-20.55.17:015][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.02.06-20.55.17:262][324]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing4998C5E04AEAB12983D970B666C2160D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.06-20.55.17:285][324]LogFileHelpers: Saving map 'SetDressing' took 0.296
+[2020.02.06-20.55.20:153][667]LogSlate: FSceneViewport::OnFocusLost() reason 0

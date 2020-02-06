@@ -692,3 +692,1002 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-22.43.54:758][111]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing2A23A9874C788C0650ECED98F4F77EBD.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
 [2020.02.06-22.43.54:787][111]LogFileHelpers: Saving map 'SetDressing' took 0.356
 [2020.02.06-22.43.56:237][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.44.30:796][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-22.44.43:778][180]LogEditorViewport: Clicking on Actor (LMB): Brush (Spiral Stair Brush3)
+[2020.02.06-22.44.53:033][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-22.45.23:254][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.45.54:153][317]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2020.02.06-22.45.54:153][317]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-22.47.08:022][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.47.13:757][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.48.11:124][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.48.23:695][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.48.23:778][892]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-22.48.23:788][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.48.23:788][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-22.48.23:788][892]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 12:48:23 PM)
+[2020.02.06-22.48.23:788][892]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.06-22.48.23:823][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034084s)
+[2020.02.06-22.48.23:823][892]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.06-22.48.23:823][892]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2020.02.06-22.48.23:823][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.034670s)
+[2020.02.06-22.48.23:851][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.02.06-22.48.23:864][892]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-22.48.23:872][892]LogInit: FAudioDevice initialized.
+[2020.02.06-22.48.23:897][892]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.06-22.48.23:899][892]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-17.48.23
+[2020.02.06-22.48.23:899][892]LogWorld: Bringing up level for play took: 0.001974
+[2020.02.06-22.48.23:912][892]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.308
+[2020.02.06-22.48.23:912][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.48.56:548][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.48.56:548][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.48.56:577][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-22.48.56:577][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.48.56:603][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.48.56:606][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.06-22.48.56:651][808]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.06-22.48.58:818][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.50.48:733][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-22.51.07:216][418]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2020.02.06-22.51.12:026][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.52.17:977][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.52.35:751][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.52.43:898][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.52.54:006][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.53.00:434][931]LogEditorViewport: Clicking on Actor (context menu): TargetPoint (TargetPoint)
+[2020.02.06-22.53.00:450][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-22.53.01:637][ 68]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.06-22.53.03:574][298]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2020.02.06-22.53.04:508][409]Cmd: DELETE
+[2020.02.06-22.53.04:508][409]Cmd: ACTOR DELETE
+[2020.02.06-22.53.04:519][409]LogEditorActor: Deleted Actor: TargetPoint
+[2020.02.06-22.53.04:543][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.02.06-22.53.04:544][409]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.02.06-22.53.13:261][448]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-22.53.16:685][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.54.10:780][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.54.28:172][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.55.01:594][222]LogEditorViewport: Clicking on Actor (context menu): KillZVolume (KillZVolume)
+[2020.02.06-22.55.01:613][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-22.55.05:845][721]Cmd: DELETE
+[2020.02.06-22.55.09:023][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-22.55.18:142][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.55.21:358][514]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.06-22.55.23:743][795]Cmd: DELETE
+[2020.02.06-22.55.23:805][795]Cmd: ACTOR DELETE
+[2020.02.06-22.55.23:816][795]LogEditorActor: Deleted Actor: KillZVolume
+[2020.02.06-22.55.23:838][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.02.06-22.55.23:839][795]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.02.06-22.55.29:730][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.55.48:008][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-22.55.49:146][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-22.55.53:771][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-22.55.54:092][375]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.06-22.55.58:771][917]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.06-22.55.59:447][996]LogEditorViewport: Clicking on Actor (LMB): KillZVolume (KillZVolume)
+[2020.02.06-22.56.01:928][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.56.17:541][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-22.56.20:876][537]LogEditorViewport: Clicking on Actor (LMB): KillZVolume (KillZVolume)
+[2020.02.06-22.56.22:930][780]LogEditorViewport: Clicking on Actor (LMB): KillZVolume (KillZVolume)
+[2020.02.06-22.56.23:608][860]LogEditorViewport: Clicking on Actor (LMB): KillZVolume (KillZVolume)
+[2020.02.06-22.56.23:976][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-22.56.26:521][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.56.54:608][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.57.18:191][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.57.42:564][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.57.42:639][216]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-22.57.42:649][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.57.42:649][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-22.57.42:650][216]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 12:57:42 PM)
+[2020.02.06-22.57.42:650][216]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.06-22.57.42:685][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035515s)
+[2020.02.06-22.57.42:686][216]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.06-22.57.42:686][216]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2020.02.06-22.57.42:686][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.036104s)
+[2020.02.06-22.57.42:709][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.02.06-22.57.42:722][216]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-22.57.42:729][216]LogInit: FAudioDevice initialized.
+[2020.02.06-22.57.42:754][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.06-22.57.42:756][216]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-17.57.42
+[2020.02.06-22.57.42:759][216]LogWorld: Bringing up level for play took: 0.004958
+[2020.02.06-22.57.42:772][216]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing -0.836
+[2020.02.06-22.57.42:772][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.57.53:652][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.57.53:652][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.57.53:679][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-22.57.53:679][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.57.53:704][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.57.53:706][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.06-22.57.53:752][520]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.06-22.58.05:388][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.58.05:471][926]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-22.58.05:481][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.05:481][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-22.58.05:481][926]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 12:58:05 PM)
+[2020.02.06-22.58.05:481][926]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.06-22.58.05:515][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033434s)
+[2020.02.06-22.58.05:515][926]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.06-22.58.05:515][926]LogPlayLevel: PIE: World Init took: (0.000418s)
+[2020.02.06-22.58.05:515][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.033948s)
+[2020.02.06-22.58.05:537][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.06-22.58.05:550][926]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-22.58.05:557][926]LogInit: FAudioDevice initialized.
+[2020.02.06-22.58.05:585][926]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.06-22.58.05:588][926]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-17.58.05
+[2020.02.06-22.58.05:588][926]LogWorld: Bringing up level for play took: 0.002114
+[2020.02.06-22.58.05:601][926]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing -0.009
+[2020.02.06-22.58.05:601][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.12:668][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.12:668][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.58.12:701][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-22.58.12:701][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.12:725][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.58.12:728][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.06-22.58.12:775][775]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.06-22.58.16:619][236]Cmd: SELECT NONE
+[2020.02.06-22.58.38:495][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.58.39:812][  5]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-22.58.39:822][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.39:822][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-22.58.39:822][  5]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 12:58:39 PM)
+[2020.02.06-22.58.39:822][  5]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.06-22.58.39:857][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034270s)
+[2020.02.06-22.58.39:857][  5]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.06-22.58.39:857][  5]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2020.02.06-22.58.39:857][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.034804s)
+[2020.02.06-22.58.39:880][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.06-22.58.39:893][  5]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-22.58.39:900][  5]LogInit: FAudioDevice initialized.
+[2020.02.06-22.58.39:926][  5]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.06-22.58.39:929][  5]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-17.58.39
+[2020.02.06-22.58.39:929][  5]LogWorld: Bringing up level for play took: 0.002231
+[2020.02.06-22.58.39:942][  5]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.328
+[2020.02.06-22.58.39:942][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.41:865][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.41:865][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.58.41:891][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-22.58.41:891][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-22.58.41:915][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-22.58.41:918][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.06-22.58.41:967][238]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.06-22.58.49:062][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.59.39:302][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-22.59.49:379][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.00.12:632][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.00.22:666][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.00.42:234][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.00.50:324][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.01.13:068][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.01.18:113][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.01.35:302][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.01.55:958][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.01.56:041][263]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-23.01.56:051][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.01.56:051][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-23.01.56:051][263]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 1:01:56 PM)
+[2020.02.06-23.01.56:051][263]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.06-23.01.56:086][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034970s)
+[2020.02.06-23.01.56:087][263]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.06-23.01.56:087][263]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2020.02.06-23.01.56:087][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.035528s)
+[2020.02.06-23.01.56:112][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.06-23.01.56:124][263]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-23.01.56:132][263]LogInit: FAudioDevice initialized.
+[2020.02.06-23.01.56:159][263]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.06-23.01.56:162][263]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-18.01.56
+[2020.02.06-23.01.56:162][263]LogWorld: Bringing up level for play took: 0.002403
+[2020.02.06-23.01.56:175][263]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.54
+[2020.02.06-23.01.56:175][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.02:918][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.02:919][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-23.02.02:947][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-23.02.02:947][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.02:972][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-23.02.02:974][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.06-23.02.03:019][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.06-23.02.07:916][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.02.07:992][667]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-23.02.08:002][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.08:002][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-23.02.08:002][667]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 1:02:08 PM)
+[2020.02.06-23.02.08:002][667]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.06-23.02.08:036][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034630s)
+[2020.02.06-23.02.08:037][667]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.06-23.02.08:037][667]LogPlayLevel: PIE: World Init took: (0.000396s)
+[2020.02.06-23.02.08:037][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.035148s)
+[2020.02.06-23.02.08:059][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.02.06-23.02.08:071][667]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.06-23.02.08:078][667]LogInit: FAudioDevice initialized.
+[2020.02.06-23.02.08:107][667]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.06-23.02.08:110][667]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-18.02.08
+[2020.02.06-23.02.08:111][667]LogWorld: Bringing up level for play took: 0.002170
+[2020.02.06-23.02.08:123][667]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.487
+[2020.02.06-23.02.08:123][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.24:165][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.24:165][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-23.02.24:192][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-23.02.24:192][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.06-23.02.24:215][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-23.02.24:218][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.06-23.02.24:269][593]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.06-23.02.33:085][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.06-23.02.36:471][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.02.39:168][369]LogAssetEditorManager: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2020.02.06-23.02.39:173][369]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.02.06-23.02.39:427][369]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.02.06-23.02.39:442][369]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.02.06-23.02.39:457][369]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.02.39:457][369]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.02.39:481][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.02.06-23.02.39:516][369]LogSlate: Took 0.007103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.06-23.02.39:715][379]LogSlate: Took 0.009973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.06-23.02.40:046][402]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.02.40:632][419]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.02.41:414][453]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.02.06-23.02.41:414][453]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2020.02.06-23.02.41:414][453]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.02.06-23.02.41:414][453]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.06-23.02.41:414][453]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.06-23.02.59:609][634]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2020.02.06-23.02.59:613][634]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2020.02.06-23.03.06:805][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.03.21:413][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.03.33:738][689]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.03.38:682][210]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/BRICK.BRICK
+[2020.02.06-23.03.38:685][210]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.03.38:727][210]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.03.38:742][210]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.03.38:761][210]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.03.38:761][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.03.38:785][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.06-23.03.38:790][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2020.02.06-23.03.38:794][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.02.06-23.03.38:799][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2020.02.06-23.03.38:803][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.02.06-23.03.38:808][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2020.02.06-23.03.38:812][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2020.02.06-23.03.38:817][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2020.02.06-23.03.38:822][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2020.02.06-23.03.38:829][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2020.02.06-23.03.39:377][220]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.03.39:940][234]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.03.40:552][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.03.40:631][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.03.59:485][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.06-23.04.00:244][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.06-23.04.07:087][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.06-23.04.08:754][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.04.21:357][824]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.21:372][824]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.21:393][825]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.21:393][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.22:046][856]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.04.23:125][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.04.26:270][265]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.26:284][265]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.26:305][266]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.26:305][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.26:697][280]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.04.27:808][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.04.28:005][340]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.28:034][342]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.28:034][342]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.28:444][356]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.04.29:524][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.04.33:669][881]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.33:683][881]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.33:704][882]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.33:704][882]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.34:141][897]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.35:047][921]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.35:063][921]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.35:067][921]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.35:137][923]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.35:476][932]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.35:815][941]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.04.36:857][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.04.42:615][649]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.42:629][649]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.42:650][650]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.42:650][650]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.43:084][665]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.43:732][681]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.43:754][681]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.43:758][681]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.43:778][681]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.44:212][692]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.44:485][699]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.04.45:562][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.04.55:897][957]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.55:912][957]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.04.55:934][958]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.04.55:934][958]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.04.56:335][972]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.04.57:469][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.05.00:920][420]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.00:935][420]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.00:959][421]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.05.00:959][421]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.05.01:374][436]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.05.02:493][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.05.06:033][898]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.06:047][898]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.06:069][899]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.05.06:069][899]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.05.06:448][912]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.05.07:590][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.05.08:271][ 32]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.08:285][ 32]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.08:308][ 33]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.05.08:308][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.05.08:697][ 47]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.05.09:820][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.05.15:899][806]LogMaterialEditor: Saving and Compiling material BRICK
+[2020.02.06-23.05.17:032][806]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.17:085][806]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.05.17:085][806]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.05.17:095][806]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.17:113][806]LogMaterial: Display: Missing cached shader map for material BRICK, compiling. 
+[2020.02.06-23.05.17:168][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.02.06-23.05.17:176][806]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.06-23.05.18:428][806]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.06-23.05.18:428][806]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-23.05.18:432][806]TextureStreamingBuild: Display: Compiling optional shaders took 1.264 seconds.
+[2020.02.06-23.05.18:471][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.06-23.05.20:405][806]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/BRICK8BE170B94148D1518E77CAB1DFC2EFEA.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/Materials/BRICK.uasset'
+[2020.02.06-23.05.27:133][590]LogSlate: Window 'BRICK' being destroyed
+[2020.02.06-23.05.27:137][590]LogSlate: Window 'BRICK' being destroyed
+[2020.02.06-23.05.30:592][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.06-23.05.31:977][142]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.05.33:090][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.05.41:298][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2020.02.06-23.05.43:384][482]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.05.44:780][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.05.52:628][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2020.02.06-23.05.53:847][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.05.58:251][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.16:000][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.18:725][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.21:739][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.23:434][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.28:843][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.41:383][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.02.06-23.06.43:177][514]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.06.47:721][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.52:521][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.55:529][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.06.58:905][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.02.06-23.07.00:170][481]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.07.01:378][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.07.03:574][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.02.06-23.07.04:154][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.02.06-23.07.05:327][ 89]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.07.06:526][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.07.22:739][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.07.31:940][262]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.07.35:145][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.02.06-23.07.37:274][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.02.06-23.07.37:946][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.02.06-23.07.42:549][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.02.06-23.07.48:146][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.07.49:345][227]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.06-23.07.49:366][227]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/NewMaterial.NewMaterial
+[2020.02.06-23.07.49:368][227]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.06-23.07.49:452][227]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.06-23.07.49:463][227]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.07.49:467][227]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.06-23.07.49:904][235]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.07.50:242][243]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.07.51:321][276]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.06-23.07.51:321][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.06-23.07.51:321][276]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.06-23.07.51:321][276]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.06-23.07.54:503][581]LogSlate: Window 'NewMaterial' being destroyed
+[2020.02.06-23.07.54:508][581]LogSlate: Window 'NewMaterial' being destroyed
+[2020.02.06-23.07.57:412][895]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/squarbrick.squarbrick
+[2020.02.06-23.07.57:415][895]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.07.57:457][895]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.07.57:471][895]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.07.57:488][895]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.07.57:488][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.07.57:512][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.06-23.07.57:517][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2020.02.06-23.07.57:521][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.02.06-23.07.57:526][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2020.02.06-23.07.57:530][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.02.06-23.07.57:535][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2020.02.06-23.07.57:541][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2020.02.06-23.07.57:549][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2020.02.06-23.07.57:555][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2020.02.06-23.07.57:563][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2020.02.06-23.07.57:865][898]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.07.58:615][917]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.07.59:152][930]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.07.59:341][934]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.07.59:341][934]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.07.59:341][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.07.59:342][934]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.07.59:342][934]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.07.59:342][934]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.07.59:342][934]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.10:530][174]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.10:544][174]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.10:566][175]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.10:566][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.11:021][190]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.12:118][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.13:009][329]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.13:030][330]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.13:030][330]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.13:450][344]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.14:564][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.21:014][148]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.21:028][148]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.21:049][149]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.21:049][149]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.21:490][164]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.22:116][179]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.22:141][179]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.22:605][190]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.22:908][197]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.24:010][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.28:943][815]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.28:957][815]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.28:986][817]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.28:986][817]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.29:436][832]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.30:013][845]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.30:035][845]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.30:527][857]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.30:792][864]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.31:895][898]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.31:896][898]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.31:896][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.31:896][898]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.31:896][898]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.31:896][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.31:896][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.40:028][858]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.40:042][858]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.40:062][859]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.40:063][859]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.40:478][874]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.41:653][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.42:166][976]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.42:180][976]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.42:204][977]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.42:204][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.42:610][991]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.43:783][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.50:692][849]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.50:706][849]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.50:727][850]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.50:727][850]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.51:101][864]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.52:284][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.52:296][908]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.52:308][908]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.52:308][908]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.52:310][908]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.52:569][917]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.52:909][927]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.53:157][935]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.54:323][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.08.55:563][119]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.55:584][120]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.55:584][120]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.08.55:684][126]LogMaterialEditor: Saving and Compiling material squarbrick
+[2020.02.06-23.08.56:095][126]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.08.56:119][126]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.56:212][126]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.08.56:226][126]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.56:260][126]LogMaterial: Display: Missing cached shader map for material squarbrick, compiling. 
+[2020.02.06-23.08.56:338][126]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2020.02.06-23.08.56:350][126]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.06-23.08.57:776][126]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.06-23.08.57:776][126]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.06-23.08.57:776][126]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-23.08.57:779][126]TextureStreamingBuild: Display: Compiling optional shaders took 1.440 seconds.
+[2020.02.06-23.08.57:820][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.06-23.08.59:853][126]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/squarbrick0C0CAF444E5E6B6AF7D9B0AAFBB5CA68.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/Materials/squarbrick.uasset'
+[2020.02.06-23.08.59:866][126]MaterialEditorStats: Base pass shader: 141 instructions
+[2020.02.06-23.08.59:866][126]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2020.02.06-23.08.59:866][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.06-23.08.59:866][126]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.08.59:866][126]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.08.59:867][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.08.59:867][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.09.01:595][314]LogSlate: Window 'squarbrick' being destroyed
+[2020.02.06-23.09.01:599][314]LogSlate: Window 'squarbrick' being destroyed
+[2020.02.06-23.09.13:555][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.18:363][286]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.09.20:152][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.22:863][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.02.06-23.09.23:257][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.02.06-23.09.24:711][ 12]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.09.25:701][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.27:123][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.02.06-23.09.28:567][469]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.09.29:881][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.34:452][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2020.02.06-23.09.35:827][314]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.09.37:284][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.41:532][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.02.06-23.09.42:525][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.02.06-23.09.43:722][232]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.09.44:743][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.52:705][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.09.58:610][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.10.03:033][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.10.04:433][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.10.12:305][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall2)
+[2020.02.06-23.10.13:903][765]Cmd: DELETE
+[2020.02.06-23.10.13:903][765]Cmd: ACTOR DELETE
+[2020.02.06-23.10.13:912][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.06-23.10.13:935][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.06-23.10.13:935][765]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.06-23.10.16:585][ 82]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2020.02.06-23.10.17:857][231]Cmd: DELETE
+[2020.02.06-23.10.17:857][231]Cmd: ACTOR DELETE
+[2020.02.06-23.10.17:866][231]LogEditorActor: Deleted Actor: RectLight
+[2020.02.06-23.10.17:887][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.02.06-23.10.17:887][231]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.06-23.10.29:188][567]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.10.33:018][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.10.39:698][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.11.08:547][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.11.26:335][623]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.02.06-23.11.26:335][623]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-23.11.27:559][763]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.11.31:659][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.11.40:138][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.11.45:030][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.11.46:875][968]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.11.48:243][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.11.54:206][812]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.11.55:832][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.12.05:823][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2020.02.06-23.12.10:951][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.12.21:059][985]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.23:556][197]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/Newconcrete.Newconcrete
+[2020.02.06-23.12.23:559][197]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.23:572][197]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.23:618][197]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.23:637][197]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.23:693][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2020.02.06-23.12.23:698][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.06-23.12.23:704][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.02.06-23.12.23:710][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.02.06-23.12.23:716][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2020.02.06-23.12.23:720][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.06-23.12.23:725][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.02.06-23.12.23:732][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.02.06-23.12.24:147][203]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-23.12.24:464][211]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.25:046][225]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.25:613][237]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.25:908][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.36:931][409]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.36:945][409]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.36:969][410]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.36:969][410]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.37:381][423]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.38:495][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.39:169][527]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.39:183][527]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.39:206][528]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.39:206][528]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.39:594][540]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.40:726][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.41:143][619]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.41:158][619]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.41:180][620]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.41:180][620]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.41:570][632]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.42:182][645]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.42:210][645]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.42:233][645]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.42:687][655]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.42:969][661]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.44:030][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.44:502][744]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.44:517][744]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.44:541][745]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.44:541][745]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.44:931][757]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.46:063][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.46:615][851]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.46:629][851]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.46:652][852]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.46:652][852]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.47:091][865]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.48:203][900]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.48:203][900]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.48:203][900]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.48:203][900]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.48:203][900]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.48:204][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.48:204][900]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.50:415][152]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.50:429][152]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.50:453][153]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.50:453][153]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.50:870][167]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.51:975][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.12.53:694][401]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.53:708][401]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.12.53:730][402]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.12.53:730][402]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.12.54:157][416]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.12.55:272][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.13.01:961][211]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.01:973][211]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.13.01:973][211]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.13.01:975][211]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.02:211][219]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.13.02:568][229]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.13.02:827][237]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.13.03:663][257]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.03:679][257]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.13.03:684][257]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.03:741][258]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.13.03:779][259]LogMaterialEditor: Saving and Compiling material Newconcrete
+[2020.02.06-23.13.04:207][259]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.13.04:230][259]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.04:310][259]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.13.04:335][259]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.04:371][259]LogMaterial: Display: Missing cached shader map for material Newconcrete, compiling. 
+[2020.02.06-23.13.04:441][259]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.02.06-23.13.04:451][259]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.06-23.13.05:902][259]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.02.06-23.13.05:902][259]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.06-23.13.05:902][259]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-23.13.05:906][259]TextureStreamingBuild: Display: Compiling optional shaders took 1.464 seconds.
+[2020.02.06-23.13.05:947][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.06-23.13.07:941][259]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Newconcrete2F7C9F434E81FA51AB173087522053E2.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/Materials/Newconcrete.uasset'
+[2020.02.06-23.13.07:951][259]MaterialEditorStats: Base pass shader: 138 instructions
+[2020.02.06-23.13.07:951][259]MaterialEditorStats: Base pass shader with Surface Lightmap: 169 instructions
+[2020.02.06-23.13.07:951][259]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2020.02.06-23.13.07:952][259]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.13.07:952][259]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.06-23.13.07:952][259]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.06-23.13.07:952][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.13.09:977][481]LogSlate: Window 'Newconcrete' being destroyed
+[2020.02.06-23.13.09:981][481]LogSlate: Window 'Newconcrete' being destroyed
+[2020.02.06-23.13.12:364][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.13.20:376][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.13.40:647][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.13.45:171][648]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.13.47:307][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.13.52:183][463]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.13.53:677][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.13.57:424][ 82]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.13.58:931][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.11:609][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-23.14.15:061][143]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.06-23.14.16:487][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.24:273][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.28:342][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.34:875][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.39:041][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.45:688][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-23.14.46:343][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.06-23.14.50:104][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.14.57:372][198]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.14.59:313][356]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/newground.newground
+[2020.02.06-23.14.59:317][356]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.14.59:331][356]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.14.59:383][356]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.14.59:400][356]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.14.59:457][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2020.02.06-23.14.59:463][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2020.02.06-23.14.59:468][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2020.02.06-23.14.59:473][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2020.02.06-23.14.59:477][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2020.02.06-23.14.59:483][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2020.02.06-23.14.59:488][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2020.02.06-23.14.59:493][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_21, compiling. 
+[2020.02.06-23.14.59:916][362]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-23.15.00:280][371]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.01:015][389]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.01:576][403]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.01:865][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.12:943][560]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.12:958][560]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.12:981][561]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.12:981][561]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.13:357][572]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.14:494][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.16:796][851]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.16:811][851]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.16:842][853]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.16:842][853]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.17:249][865]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.18:366][899]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.18:366][899]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.18:366][899]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.18:366][899]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.18:366][899]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.18:366][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.18:367][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.20:664][147]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.20:678][147]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.20:710][149]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.20:710][149]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.21:126][162]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.22:258][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.23:285][312]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.23:298][312]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.23:298][312]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.23:300][312]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.23:531][319]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.23:905][328]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.24:122][334]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.24:550][343]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.24:572][343]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.24:983][352]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.25:328][360]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.26:415][400]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.27:820][550]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.27:835][550]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.27:858][551]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.27:858][551]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.28:232][562]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.29:369][598]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.29:369][598]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.29:369][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.29:370][598]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.29:370][598]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.29:370][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.29:370][598]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.30:738][745]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.30:752][745]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.30:775][746]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.30:775][746]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.31:157][758]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.31:332][762]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.31:533][766]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.31:955][776]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.32:208][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.33:295][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.40:094][547]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.40:109][547]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.40:131][548]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.40:131][548]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.40:523][561]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.41:115][574]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.41:231][576]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.41:629][585]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.41:921][592]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.42:985][625]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.44:074][746]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.44:088][746]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.44:110][747]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.44:110][747]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.44:514][759]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.45:657][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.45:862][818]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.45:884][819]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.45:884][819]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.46:285][832]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.06-23.15.47:423][869]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.02.06-23.15.47:424][869]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.02.06-23.15.47:424][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.02.06-23.15.47:424][869]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.06-23.15.47:424][869]MaterialEditorStats: Texture samplers: 7/16
+[2020.02.06-23.15.47:424][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.06-23.15.47:424][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-23.15.57:059][961]LogMaterialEditor: Saving and Compiling material newground
+[2020.02.06-23.15.57:333][961]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.57:385][961]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.06-23.15.57:385][961]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.06-23.15.57:392][961]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.57:410][961]LogMaterial: Display: Missing cached shader map for material newground, compiling. 
+[2020.02.06-23.15.57:456][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.06-23.15.57:468][961]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.06-23.15.58:705][961]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.06-23.15.58:705][961]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.06-23.15.58:707][961]TextureStreamingBuild: Display: Compiling optional shaders took 1.249 seconds.
+[2020.02.06-23.15.58:738][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.02.06-23.16.00:650][961]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/newground7E08E8B349FE3A754F30E6B8D10452B3.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/Materials/newground.uasset'
+[2020.02.06-23.16.03:710][275]LogSlate: Window 'newground' being destroyed
+[2020.02.06-23.16.03:714][275]LogSlate: Window 'newground' being destroyed
+[2020.02.06-23.16.07:011][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.16.16:071][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.16.17:431][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.16.19:172][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.16.21:559][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.16.27:440][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-23.17.14:757][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-23.17.16:311][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.02.06-23.17.16:316][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-23.17.16:342][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.02.06-23.17.16:589][865]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressingF756D7EC452CD6B7619F5BBDF7F0661C.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.06-23.17.16:611][865]LogFileHelpers: Saving map 'SetDressing' took 0.291
+[2020.02.06-23.17.22:186][533]LogSlate: FSceneViewport::OnFocusLost() reason 0

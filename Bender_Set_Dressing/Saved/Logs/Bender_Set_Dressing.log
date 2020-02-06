@@ -1002,3 +1002,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-18.08.34:462][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2020.02.06-18.08.34:698][741]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing2AD7FF184A0D40770F0D74A34CA80874.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
 [2020.02.06-18.08.34:719][741]LogFileHelpers: Saving map 'SetDressing' took 0.277
+[2020.02.06-18.08.56:124][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.09.14:242][575]Cmd: DUPLICATE
+[2020.02.06-18.09.14:242][575]Cmd: ACTOR DUPLICATE
+[2020.02.06-18.10.01:849][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.10.16:793][913]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-18.10.21:467][441]Cmd: DUPLICATE
+[2020.02.06-18.10.21:467][441]Cmd: ACTOR DUPLICATE
+[2020.02.06-18.10.35:903][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.10.51:054][810]Cmd: DELETE
+[2020.02.06-18.10.51:109][810]Cmd: ACTOR DELETE
+[2020.02.06-18.10.51:122][810]LogEditorActor: Deleted Actor: Brush
+[2020.02.06-18.10.51:143][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.06-18.10.51:179][810]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2020.02.06-18.11.03:778][721]Cmd: TRANSACTION UNDO
+[2020.02.06-18.11.03:778][721]LogEditorTransaction: Undo Delete Actors
+[2020.02.06-18.11.52:552][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.12.19:238][622]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2020.02.06-18.12.19:238][622]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-18.12.30:117][852]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.31:578][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.12.33:491][248]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.34:276][337]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.34:777][392]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.37:785][736]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.38:492][816]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.39:635][945]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.41:066][108]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.41:355][138]Cmd: EDCALLBACK SURFPROPS
+[2020.02.06-18.12.49:259][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.13.16:160][225]LogGeometryMode: Warning: Unable to find BoxBrush26 Brush(s) in new BSP
+[2020.02.06-18.13.16:160][225]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.06-18.13.18:612][506]Cmd: DUPLICATE
+[2020.02.06-18.13.18:612][506]Cmd: ACTOR DUPLICATE
+[2020.02.06-18.13.35:283][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.13.41:423][164]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush28)
+[2020.02.06-18.13.55:897][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.15.17:186][571]Cmd: DUPLICATE
+[2020.02.06-18.15.17:186][571]Cmd: ACTOR DUPLICATE
+[2020.02.06-18.16.04:476][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-18.16.34:375][640]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.06-18.16.38:175][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-18.16.38:357][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-18.16.39:081][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-18.16.40:344][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.06-18.16.40:350][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.06-18.16.40:376][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.02.06-18.16.40:683][338]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing1D7EF0334560A2B407B36AB659E37832.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.06-18.16.40:708][338]LogFileHelpers: Saving map 'SetDressing' took 0.354
+[2020.02.06-18.16.43:179][634]LogSlate: FSceneViewport::OnFocusLost() reason 0

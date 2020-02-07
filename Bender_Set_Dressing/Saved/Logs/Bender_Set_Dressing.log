@@ -5934,3 +5934,148 @@ Please see Output Log for details.
 [2020.02.07-01.11.19:374][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier93E2359E407E3B6680FB16B1EA5F6A47.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier.uasset'
 [2020.02.07-01.11.19:402][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier_barrier_00220AB46A94D43867E23BF41998DFC8EBF.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier_barrier_002.uasset'
 [2020.02.07-01.11.19:426][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier_barrierBA63AA024874C4DE661F0CB29F191818.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier_barrier.uasset'
+[2020.02.07-01.13.23:592][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.13.53:209][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-01.13.53:219][741]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../Users/tlbender/Downloads/Sign1/Sign1/fbxSign.fbx)
+[2020.02.07-01.13.53:230][741]LogFbx: Loading FBX Scene from ../../../../../../../Users/tlbender/Downloads/Sign1/Sign1/fbxSign.fbx
+[2020.02.07-01.13.53:251][741]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.07-01.13.54:394][741]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.07-01.13.54:416][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/WOOD05L'
+[2020.02.07-01.13.54:416][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/WOOD05L'
+[2020.02.07-01.13.54:446][741]LogTexture: Display: Building textures: WOOD05L (AutoDXT, 1280X1024)
+[2020.02.07-01.13.55:408][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/WOOD05LB'
+[2020.02.07-01.13.55:408][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/WOOD05LB'
+[2020.02.07-01.13.55:426][741]LogTexture: Display: Building textures: WOOD05LB (BC5, 1280X1024)
+[2020.02.07-01.13.55:527][741]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.02.07-01.13.55:558][741]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.02.07-01.13.55:574][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/sped09L'
+[2020.02.07-01.13.55:574][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/sped09L'
+[2020.02.07-01.13.55:602][741]LogTexture: Display: Building textures: sped09L (BGRA8, 633X800)
+[2020.02.07-01.13.55:629][741]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.02.07-01.13.55:645][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/plate1'
+[2020.02.07-01.13.55:645][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/plate1'
+[2020.02.07-01.13.55:674][741]LogTexture: Display: Building textures: plate1 (BGRA8, 850X456)
+[2020.02.07-01.13.55:706][741]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.02.07-01.13.55:721][741]LogFbx: Display: Triangulating static mesh sign3
+[2020.02.07-01.13.55:752][741]LogStaticMesh: Building static mesh fbxSign_sign3...
+[2020.02.07-01.13.55:757][741]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/misc/fbxSign_sign3.fbxSign_sign3
+[2020.02.07-01.13.55:758][741]LogStaticMesh: Warning: fbxSign_sign3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-01.13.55:758][741]LogStaticMesh: Warning: fbxSign_sign3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-01.13.55:783][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/plate2'
+[2020.02.07-01.13.55:784][741]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/plate2'
+[2020.02.07-01.13.55:813][741]LogTexture: Display: Building textures: plate2 (BGRA8, 498X240)
+[2020.02.07-01.13.55:859][741]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.02.07-01.13.55:884][741]LogFbx: Display: Triangulating static mesh sign2
+[2020.02.07-01.13.55:934][741]LogStaticMesh: Building static mesh fbxSign_sign2...
+[2020.02.07-01.13.55:941][741]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/misc/fbxSign_sign2.fbxSign_sign2
+[2020.02.07-01.13.55:942][741]LogStaticMesh: Warning: fbxSign_sign2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-01.13.55:942][741]LogStaticMesh: Warning: fbxSign_sign2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-01.13.55:963][741]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.07-01.13.55:963][741]FBXImport: Warning: fbxSign_sign3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-01.13.55:963][741]FBXImport: Warning: fbxSign_sign3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-01.13.55:963][741]FBXImport: Warning: fbxSign_sign2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-01.13.55:963][741]FBXImport: Warning: fbxSign_sign2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-01.14.00:151][957]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-01.14.00:157][957]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-01.14.02:348][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.14.04:120][422]LogActorFactory: Actor Factory created fbxSign_sign2
+[2020.02.07-01.14.07:503][824]LogActorFactory: Actor Factory created fbxSign_sign2
+[2020.02.07-01.14.08:079][892]LogActorFactory: Actor Factory created fbxSign_sign2
+[2020.02.07-01.14.25:163][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.14.35:716][177]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.435 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.07-01.15.39:883][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.15.39:974][750]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.07-01.15.39:986][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.15.39:986][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.07-01.15.39:986][750]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 3:15:39 PM)
+[2020.02.07-01.15.39:986][750]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.07-01.15.40:025][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038874s)
+[2020.02.07-01.15.40:026][750]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.07-01.15.40:026][750]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2020.02.07-01.15.40:026][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.039522s)
+[2020.02.07-01.15.40:052][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.07-01.15.40:066][750]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.07-01.15.40:074][750]LogInit: FAudioDevice initialized.
+[2020.02.07-01.15.40:099][750]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.07-01.15.40:103][750]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-20.15.40
+[2020.02.07-01.15.40:103][750]LogWorld: Bringing up level for play took: 0.003402
+[2020.02.07-01.15.40:116][750]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.258
+[2020.02.07-01.15.40:116][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.15.51:563][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.15.51:563][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-01.15.51:591][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.07-01.15.51:591][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.15.51:617][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-01.15.51:619][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.02.07-01.15.51:667][123]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.02.07-01.15.52:309][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxSign_sign2)
+[2020.02.07-01.15.54:353][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.16.00:293][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.16.00:393][163]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.07-01.16.00:405][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.00:405][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.07-01.16.00:405][163]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 3:16:00 PM)
+[2020.02.07-01.16.00:405][163]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.07-01.16.00:444][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038922s)
+[2020.02.07-01.16.00:445][163]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.07-01.16.00:445][163]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2020.02.07-01.16.00:445][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.039432s)
+[2020.02.07-01.16.00:468][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.07-01.16.00:481][163]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.07-01.16.00:488][163]LogInit: FAudioDevice initialized.
+[2020.02.07-01.16.00:513][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.07-01.16.00:517][163]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-20.16.00
+[2020.02.07-01.16.00:517][163]LogWorld: Bringing up level for play took: 0.003359
+[2020.02.07-01.16.00:530][163]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.67
+[2020.02.07-01.16.00:530][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.03:343][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.03:343][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-01.16.03:372][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.07-01.16.03:372][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.03:397][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-01.16.03:400][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.07-01.16.03:443][500]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.02.07-01.16.09:105][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.16.09:979][278]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.07-01.16.09:991][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.09:991][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.07-01.16.09:991][278]PIE: New page: PIE session: SetDressing (Feb 6, 2020, 3:16:09 PM)
+[2020.02.07-01.16.09:991][278]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing
+[2020.02.07-01.16.10:029][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037890s)
+[2020.02.07-01.16.10:030][278]LogAIModule: Creating AISystem for world SetDressing
+[2020.02.07-01.16.10:030][278]LogPlayLevel: PIE: World Init took: (0.000400s)
+[2020.02.07-01.16.10:030][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/SetDressing.SetDressing to /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing (0.038395s)
+[2020.02.07-01.16.10:054][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.07-01.16.10:067][278]LogInit: XAudio2 using 'Optix G24C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.07-01.16.10:074][278]LogInit: FAudioDevice initialized.
+[2020.02.07-01.16.10:100][278]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.07-01.16.10:104][278]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing.SetDressing up for play (max tick rate 0) at 2020.02.06-20.16.10
+[2020.02.07-01.16.10:104][278]LogWorld: Bringing up level for play took: 0.003434
+[2020.02.07-01.16.10:117][278]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_SetDressing 0.256
+[2020.02.07-01.16.10:117][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.27:231][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.27:232][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-01.16.27:261][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.07-01.16.27:261][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing' with GeneratedClass '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SetDressing.SetDressing:PersistentLevel.SetDressing'
+[2020.02.07-01.16.27:287][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-01.16.27:290][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.07-01.16.27:335][332]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.02.07-01.16.56:452][807]Cmd: SELECT NONE
+[2020.02.07-01.16.59:164][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-01.17.00:327][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.07-01.17.00:333][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-01.17.00:361][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.02.07-01.17.00:663][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressingA34D3FF24BC788C69CFAD39A4E97E5AC.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.07-01.17.00:687][262]LogFileHelpers: Saving map 'SetDressing' took 0.350
+[2020.02.07-01.17.00:709][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/plate24CFF71034C80A80AAACC04A929C8D105.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/plate2.uasset'
+[2020.02.07-01.17.00:734][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/fbxSign_sign319A0B9334FFC163E98AE6A8D4E308A1D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/fbxSign_sign3.uasset'
+[2020.02.07-01.17.00:759][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert283DAB4314071D6407E25CC98FE1BB698.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/lambert2.uasset'
+[2020.02.07-01.17.00:904][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/WOOD05L13B0E5F94F535C1F61F11186CE014315.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/WOOD05L.uasset'
+[2020.02.07-01.17.01:002][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/WOOD05LBA39A48F1483D8A99F1015C8339989898.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/WOOD05LB.uasset'
+[2020.02.07-01.17.01:025][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/blinn1809BEE30494F0625F84785B68DA6FD5C.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/blinn1.uasset'
+[2020.02.07-01.17.01:055][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert4834D91C0473FACD882F657A185F62652.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/lambert4.uasset'
+[2020.02.07-01.17.01:127][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/sped09L4EEF9F774D44AE40DFB480A204E7B88D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/sped09L.uasset'
+[2020.02.07-01.17.01:152][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert3AEE364C4425D8E6AD232F0BD8657A946.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/lambert3.uasset'
+[2020.02.07-01.17.01:205][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/plate1B012741D4962AFF33C555C84A1329925.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/plate1.uasset'
+[2020.02.07-01.17.01:229][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/fbxSign_sign24C72537C46F05B1B2F7F0EA6B81164CA.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/fbxSign_sign2.uasset'
+[2020.02.07-01.17.01:252][262]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/lambert5C5BFC72A49095FBC65EDE785FD943D34.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/lambert5.uasset'

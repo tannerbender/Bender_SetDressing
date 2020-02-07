@@ -4982,3 +4982,58 @@ Please see Output Log for details.
 [2020.02.07-00.53.00:013][653]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Box18Mat7C6C012C4A9292577D164F94D56A7F88.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/car/Box18Mat.uasset'
 [2020.02.07-00.53.00:049][653]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/statie_B01_Object14D36B86CC4415CEA9224BDABD0BD8F311.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/car/statie_B01_Object14.uasset'
 [2020.02.07-00.53.00:077][653]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Object14MatB8F75F1B43B6EAA1E6406ABF93A9ED4C.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/car/Object14Mat.uasset'
+[2020.02.07-00.55.16:525][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.55.24:411][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-00.55.25:809][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-00.55.29:111][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-00.55.36:834][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-00.55.36:841][374]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../Users/tlbender/Downloads/street_lamp.FBX)
+[2020.02.07-00.55.36:851][374]LogFbx: Loading FBX Scene from ../../../../../../../Users/tlbender/Downloads/street_lamp.FBX
+[2020.02.07-00.55.36:862][374]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.07-00.55.38:165][374]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.07-00.55.38:192][374]LogMaterial: Display: Missing cached shader map for material metal, compiling. 
+[2020.02.07-00.55.38:221][374]LogMaterial: Display: Missing cached shader map for material glass, compiling. 
+[2020.02.07-00.55.38:234][374]LogFbx: Display: Triangulating static mesh lamp
+[2020.02.07-00.55.38:613][374]LogStaticMesh: Building static mesh street_lamp...
+[2020.02.07-00.55.38:708][374]LogStaticMesh: Built static mesh [0.10s] /Game/StarterContent/3Dmodels/streetlights/street_lamp.street_lamp
+[2020.02.07-00.55.38:726][374]LogStaticMesh: Warning: street_lamp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-00.55.38:726][374]LogStaticMesh: Warning: street_lamp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-00.55.38:757][374]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.07-00.55.38:757][374]FBXImport: Warning: street_lamp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-00.55.38:757][374]FBXImport: Warning: street_lamp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-00.55.48:167][472]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-00.55.48:172][472]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-00.55.57:282][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.55.59:345][798]LogActorFactory: Actor Factory created street_lamp
+[2020.02.07-00.56.00:303][901]LogActorFactory: Actor Factory created street_lamp
+[2020.02.07-00.56.00:947][972]LogActorFactory: Actor Factory created street_lamp
+[2020.02.07-00.56.07:203][715]Cmd: TRANSACTION UNDO
+[2020.02.07-00.56.07:203][715]LogEditorTransaction: Undo Create Actors
+[2020.02.07-00.56.08:721][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.56.08:827][895]LogActorFactory: Actor Factory created street_lamp
+[2020.02.07-00.56.09:751][980]LogActorFactory: Actor Factory created street_lamp
+[2020.02.07-00.56.14:783][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.07-00.56.17:054][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.07-00.56.17:497][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_lamp)
+[2020.02.07-00.56.27:460][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.56.47:683][451]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2020.02.07-00.56.51:805][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.07-00.56.54:257][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.57.02:295][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_lamp)
+[2020.02.07-00.57.19:688][155]Cmd: DUPLICATE
+[2020.02.07-00.57.19:688][155]Cmd: ACTOR DUPLICATE
+[2020.02.07-00.57.54:468][272]Cmd: DUPLICATE
+[2020.02.07-00.57.54:468][272]Cmd: ACTOR DUPLICATE
+[2020.02.07-00.58.25:779][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.58.39:212][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_lamp3)
+[2020.02.07-00.58.50:083][745]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2020.02.07-00.59.13:737][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-00.59.29:857][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-00.59.30:826][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.07-00.59.30:831][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-00.59.30:858][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.02.07-00.59.31:129][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing8936C38343216EED55816FB016DEEB65.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.07-00.59.31:150][506]LogFileHelpers: Saving map 'SetDressing' took 0.315
+[2020.02.07-00.59.31:183][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/street_lampF29E52324A1EB22842443E964CC5F7CD.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/streetlights/street_lamp.uasset'
+[2020.02.07-00.59.31:205][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/metal06FB15994857DE8529F9B5ADA43A5FE7.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/streetlights/metal.uasset'
+[2020.02.07-00.59.31:228][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/glassFC8C3DCB42A7E9019E69479B6F04CB32.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/streetlights/glass.uasset'

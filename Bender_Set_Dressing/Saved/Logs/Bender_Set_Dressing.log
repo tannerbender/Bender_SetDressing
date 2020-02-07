@@ -5037,3 +5037,900 @@ Please see Output Log for details.
 [2020.02.07-00.59.31:183][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/street_lampF29E52324A1EB22842443E964CC5F7CD.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/streetlights/street_lamp.uasset'
 [2020.02.07-00.59.31:205][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/metal06FB15994857DE8529F9B5ADA43A5FE7.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/streetlights/metal.uasset'
 [2020.02.07-00.59.31:228][506]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/glassFC8C3DCB42A7E9019E69479B6F04CB32.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/streetlights/glass.uasset'
+[2020.02.07-01.00.23:759][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.01.25:934][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.01.35:700][990]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (10.748 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.07-01.01.40:349][304]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../Users/tlbender/Downloads/Dumpster_800LSubDivLev1.fbx)
+[2020.02.07-01.01.40:363][304]LogFbx: Loading FBX Scene from ../../../../../../../Users/tlbender/Downloads/Dumpster_800LSubDivLev1.fbx
+[2020.02.07-01.01.40:401][304]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.07-01.01.41:626][304]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.07-01.01.41:649][304]LogMaterial: Display: Missing cached shader map for material Mat_3, compiling. 
+[2020.02.07-01.01.41:660][304]LogFbx: Display: Triangulating static mesh Plane_2
+[2020.02.07-01.01.41:689][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Plane_2...
+[2020.02.07-01.01.41:695][304]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Plane_2.Dumpster_800LSubDivLev1_Plane_2
+[2020.02.07-01.01.41:703][304]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2020.02.07-01.01.41:714][304]LogFbx: Display: Triangulating static mesh Top__P_axis_oº_to__253º_
+[2020.02.07-01.01.42:126][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_...
+[2020.02.07-01.01.42:276][304]LogStaticMesh: Built static mesh [0.15s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_.Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_
+[2020.02.07-01.01.42:293][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-01.01.42:293][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-01.01.42:322][304]LogFbx: Display: Triangulating static mesh BOX
+[2020.02.07-01.01.43:347][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_BOX...
+[2020.02.07-01.01.43:653][304]LogStaticMesh: Built static mesh [0.31s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_BOX.Dumpster_800LSubDivLev1_BOX
+[2020.02.07-01.01.43:758][304]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2020.02.07-01.01.43:770][304]LogFbx: Display: Triangulating static mesh BOX_2
+[2020.02.07-01.01.43:831][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_BOX_2...
+[2020.02.07-01.01.43:843][304]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_BOX_2.Dumpster_800LSubDivLev1_BOX_2
+[2020.02.07-01.01.43:845][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_BOX_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-01.01.43:845][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_BOX_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-01.01.43:858][304]LogFbx: Display: Triangulating static mesh Truck_conections
+[2020.02.07-01.01.44:002][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Truck_conections...
+[2020.02.07-01.01.44:038][304]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Truck_conections.Dumpster_800LSubDivLev1_Truck_conections
+[2020.02.07-01.01.44:055][304]LogFbx: Display: Triangulating static mesh Truck_conections_2
+[2020.02.07-01.01.44:235][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Truck_conections_2...
+[2020.02.07-01.01.44:283][304]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Truck_conections_2.Dumpster_800LSubDivLev1_Truck_conections_2
+[2020.02.07-01.01.44:300][304]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.02.07-01.01.44:304][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder...
+[2020.02.07-01.01.44:306][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder.Dumpster_800LSubDivLev1_Cylinder
+[2020.02.07-01.01.44:312][304]LogFbx: Display: Triangulating static mesh Polygon
+[2020.02.07-01.01.44:317][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Polygon...
+[2020.02.07-01.01.44:318][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon.Dumpster_800LSubDivLev1_Polygon
+[2020.02.07-01.01.44:329][304]LogMaterial: Display: Missing cached shader map for material rubber, compiling. 
+[2020.02.07-01.01.44:340][304]LogFbx: Display: Triangulating static mesh Cylinder_2
+[2020.02.07-01.01.44:358][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_2...
+[2020.02.07-01.01.44:363][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_2.Dumpster_800LSubDivLev1_Cylinder_2
+[2020.02.07-01.01.44:364][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_Cylinder_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-01.01.44:364][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_Cylinder_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-01.01.44:375][304]LogMaterial: Display: Missing cached shader map for material plastic, compiling. 
+[2020.02.07-01.01.44:387][304]LogFbx: Display: Triangulating static mesh Cylinder_3
+[2020.02.07-01.01.44:477][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_3...
+[2020.02.07-01.01.44:500][304]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_3.Dumpster_800LSubDivLev1_Cylinder_3
+[2020.02.07-01.01.44:520][304]LogFbx: Display: Triangulating static mesh Torus_1
+[2020.02.07-01.01.44:636][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Torus_1...
+[2020.02.07-01.01.44:667][304]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1.Dumpster_800LSubDivLev1_Torus_1
+[2020.02.07-01.01.44:690][304]LogFbx: Display: Triangulating static mesh Cylinder_4
+[2020.02.07-01.01.44:695][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_4...
+[2020.02.07-01.01.44:699][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_4.Dumpster_800LSubDivLev1_Cylinder_4
+[2020.02.07-01.01.44:714][304]LogFbx: Display: Triangulating static mesh Polygon_2
+[2020.02.07-01.01.44:724][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Polygon_2...
+[2020.02.07-01.01.44:725][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon_2.Dumpster_800LSubDivLev1_Polygon_2
+[2020.02.07-01.01.44:742][304]LogFbx: Display: Triangulating static mesh Cylinder_5
+[2020.02.07-01.01.44:756][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_5...
+[2020.02.07-01.01.44:761][304]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_5.Dumpster_800LSubDivLev1_Cylinder_5
+[2020.02.07-01.01.44:772][304]LogFbx: Display: Triangulating static mesh Cylinder_6
+[2020.02.07-01.01.44:837][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_6...
+[2020.02.07-01.01.44:863][304]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_6.Dumpster_800LSubDivLev1_Cylinder_6
+[2020.02.07-01.01.44:879][304]LogFbx: Display: Triangulating static mesh Torus_1_2
+[2020.02.07-01.01.44:987][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Torus_1_2...
+[2020.02.07-01.01.45:014][304]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1_2.Dumpster_800LSubDivLev1_Torus_1_2
+[2020.02.07-01.01.45:035][304]LogFbx: Display: Triangulating static mesh Cylinder_7
+[2020.02.07-01.01.45:039][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_7...
+[2020.02.07-01.01.45:042][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_7.Dumpster_800LSubDivLev1_Cylinder_7
+[2020.02.07-01.01.45:054][304]LogFbx: Display: Triangulating static mesh Polygon_3
+[2020.02.07-01.01.45:061][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Polygon_3...
+[2020.02.07-01.01.45:062][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon_3.Dumpster_800LSubDivLev1_Polygon_3
+[2020.02.07-01.01.45:072][304]LogFbx: Display: Triangulating static mesh Cylinder_8
+[2020.02.07-01.01.45:089][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_8...
+[2020.02.07-01.01.45:097][304]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_8.Dumpster_800LSubDivLev1_Cylinder_8
+[2020.02.07-01.01.45:098][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_Cylinder_8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.07-01.01.45:098][304]LogStaticMesh: Warning: Dumpster_800LSubDivLev1_Cylinder_8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.07-01.01.45:107][304]LogFbx: Display: Triangulating static mesh Cylinder_9
+[2020.02.07-01.01.45:164][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_9...
+[2020.02.07-01.01.45:186][304]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_9.Dumpster_800LSubDivLev1_Cylinder_9
+[2020.02.07-01.01.45:200][304]LogFbx: Display: Triangulating static mesh Torus_1_3
+[2020.02.07-01.01.45:302][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Torus_1_3...
+[2020.02.07-01.01.45:326][304]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1_3.Dumpster_800LSubDivLev1_Torus_1_3
+[2020.02.07-01.01.45:344][304]LogFbx: Display: Triangulating static mesh Cylinder_10
+[2020.02.07-01.01.45:348][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_10...
+[2020.02.07-01.01.45:351][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_10.Dumpster_800LSubDivLev1_Cylinder_10
+[2020.02.07-01.01.45:361][304]LogFbx: Display: Triangulating static mesh Polygon_4
+[2020.02.07-01.01.45:369][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Polygon_4...
+[2020.02.07-01.01.45:370][304]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon_4.Dumpster_800LSubDivLev1_Polygon_4
+[2020.02.07-01.01.45:382][304]LogFbx: Display: Triangulating static mesh Cylinder_11
+[2020.02.07-01.01.45:399][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_11...
+[2020.02.07-01.01.45:404][304]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_11.Dumpster_800LSubDivLev1_Cylinder_11
+[2020.02.07-01.01.45:415][304]LogFbx: Display: Triangulating static mesh Cylinder_12
+[2020.02.07-01.01.45:470][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Cylinder_12...
+[2020.02.07-01.01.45:498][304]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_12.Dumpster_800LSubDivLev1_Cylinder_12
+[2020.02.07-01.01.45:511][304]LogFbx: Display: Triangulating static mesh Torus_1_4
+[2020.02.07-01.01.45:612][304]LogStaticMesh: Building static mesh Dumpster_800LSubDivLev1_Torus_1_4...
+[2020.02.07-01.01.45:641][304]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1_4.Dumpster_800LSubDivLev1_Torus_1_4
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Dumpster_800LSubDivLev1_BOX_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Dumpster_800LSubDivLev1_BOX_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:825][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:826][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Dumpster_800LSubDivLev1_Cylinder_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Dumpster_800LSubDivLev1_Cylinder_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:827][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:828][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:829][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:830][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Dumpster_800LSubDivLev1_Cylinder_8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Dumpster_800LSubDivLev1_Cylinder_8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:831][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:832][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.45:833][304]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2020.02.07-01.01.53:788][212]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-01.01.53:793][212]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-01.01.57:840][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.02.06:812][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.07-01.02.19:542][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.02.43:045][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX
+[2020.02.07-01.02.43:045][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX_2
+[2020.02.07-01.02.43:045][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder
+[2020.02.07-01.02.43:046][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_2
+[2020.02.07-01.02.43:046][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_3
+[2020.02.07-01.02.43:046][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_4
+[2020.02.07-01.02.43:047][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_5
+[2020.02.07-01.02.43:047][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_6
+[2020.02.07-01.02.43:047][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_7
+[2020.02.07-01.02.43:047][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_8
+[2020.02.07-01.02.43:048][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_9
+[2020.02.07-01.02.43:048][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_10
+[2020.02.07-01.02.43:048][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_11
+[2020.02.07-01.02.43:049][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_12
+[2020.02.07-01.02.43:049][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Plane_2
+[2020.02.07-01.02.43:049][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon
+[2020.02.07-01.02.43:050][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_2
+[2020.02.07-01.02.43:050][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_3
+[2020.02.07-01.02.43:050][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_4
+[2020.02.07-01.02.43:051][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_
+[2020.02.07-01.02.43:051][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1
+[2020.02.07-01.02.43:051][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_2
+[2020.02.07-01.02.43:052][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_3
+[2020.02.07-01.02.43:052][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_4
+[2020.02.07-01.02.43:052][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections
+[2020.02.07-01.02.43:053][ 86]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections_2
+[2020.02.07-01.02.46:067][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX
+[2020.02.07-01.02.46:078][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX_2
+[2020.02.07-01.02.46:088][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder
+[2020.02.07-01.02.46:099][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_2
+[2020.02.07-01.02.46:109][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_3
+[2020.02.07-01.02.46:119][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_4
+[2020.02.07-01.02.46:129][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_5
+[2020.02.07-01.02.46:139][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_6
+[2020.02.07-01.02.46:149][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_7
+[2020.02.07-01.02.46:159][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_8
+[2020.02.07-01.02.46:169][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_9
+[2020.02.07-01.02.46:179][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_10
+[2020.02.07-01.02.46:189][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_11
+[2020.02.07-01.02.46:199][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_12
+[2020.02.07-01.02.46:209][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Plane_2
+[2020.02.07-01.02.46:219][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon
+[2020.02.07-01.02.46:229][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_2
+[2020.02.07-01.02.46:239][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_3
+[2020.02.07-01.02.46:249][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_4
+[2020.02.07-01.02.46:259][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_
+[2020.02.07-01.02.46:269][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1
+[2020.02.07-01.02.46:279][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_2
+[2020.02.07-01.02.46:288][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_3
+[2020.02.07-01.02.46:298][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_4
+[2020.02.07-01.02.46:308][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections
+[2020.02.07-01.02.46:318][342]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections_2
+[2020.02.07-01.03.01:915][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.25:014][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.43:238][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.49:395][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.51:769][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.53:848][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.57:198][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.03.59:030][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_800LSubDivLev1_BOX)
+[2020.02.07-01.04.02:145][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_800LSubDivLev1_Truck_conections)
+[2020.02.07-01.04.03:156][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.04.06:612][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.04.24:697][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_800LSubDivLev1_BOX)
+[2020.02.07-01.04.28:059][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_)
+[2020.02.07-01.04.28:598][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_800LSubDivLev1_BOX)
+[2020.02.07-01.04.29:134][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_800LSubDivLev1_BOX)
+[2020.02.07-01.04.31:520][740]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.07-01.04.38:817][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.04.56:930][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX
+[2020.02.07-01.04.56:930][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX_2
+[2020.02.07-01.04.56:931][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder
+[2020.02.07-01.04.56:931][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_2
+[2020.02.07-01.04.56:931][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_3
+[2020.02.07-01.04.56:931][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_4
+[2020.02.07-01.04.56:932][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_5
+[2020.02.07-01.04.56:932][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_6
+[2020.02.07-01.04.56:932][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_7
+[2020.02.07-01.04.56:933][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_8
+[2020.02.07-01.04.56:933][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_9
+[2020.02.07-01.04.56:934][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_10
+[2020.02.07-01.04.56:934][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_11
+[2020.02.07-01.04.56:934][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_12
+[2020.02.07-01.04.56:935][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Plane_2
+[2020.02.07-01.04.56:935][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon
+[2020.02.07-01.04.56:935][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_2
+[2020.02.07-01.04.56:936][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_3
+[2020.02.07-01.04.56:936][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_4
+[2020.02.07-01.04.56:936][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_
+[2020.02.07-01.04.56:937][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1
+[2020.02.07-01.04.56:937][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_2
+[2020.02.07-01.04.56:937][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_3
+[2020.02.07-01.04.56:938][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_4
+[2020.02.07-01.04.56:938][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections
+[2020.02.07-01.04.56:938][767]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections_2
+[2020.02.07-01.05.01:489][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX
+[2020.02.07-01.05.01:500][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_BOX_2
+[2020.02.07-01.05.01:510][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder
+[2020.02.07-01.05.01:520][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_2
+[2020.02.07-01.05.01:531][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_3
+[2020.02.07-01.05.01:541][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_4
+[2020.02.07-01.05.01:552][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_5
+[2020.02.07-01.05.01:562][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_6
+[2020.02.07-01.05.01:572][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_7
+[2020.02.07-01.05.01:583][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_8
+[2020.02.07-01.05.01:593][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_9
+[2020.02.07-01.05.01:603][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_10
+[2020.02.07-01.05.01:614][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_11
+[2020.02.07-01.05.01:624][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Cylinder_12
+[2020.02.07-01.05.01:634][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Plane_2
+[2020.02.07-01.05.01:645][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon
+[2020.02.07-01.05.01:655][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_2
+[2020.02.07-01.05.01:665][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_3
+[2020.02.07-01.05.01:675][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Polygon_4
+[2020.02.07-01.05.01:686][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_
+[2020.02.07-01.05.01:696][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1
+[2020.02.07-01.05.01:706][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_2
+[2020.02.07-01.05.01:717][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_3
+[2020.02.07-01.05.01:727][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Torus_1_4
+[2020.02.07-01.05.01:737][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections
+[2020.02.07-01.05.01:747][158]LogActorFactory: Actor Factory created Dumpster_800LSubDivLev1_Truck_conections_2
+[2020.02.07-01.05.04:437][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.05.45:143][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.07-01.05.47:209][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.07-01.05.51:511][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.07-01.05.53:828][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.06.10:865][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.07.17:786][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-01.07.39:771][587]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../Users/tlbender/Downloads/barrier.fbx)
+[2020.02.07-01.07.39:780][587]LogFbx: Loading FBX Scene from ../../../../../../../Users/tlbender/Downloads/barrier.fbx
+[2020.02.07-01.07.39:785][587]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.07-01.07.40:983][587]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.07-01.07.41:015][587]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/texture'
+[2020.02.07-01.07.41:016][587]LogLinker: Can't find file '/Game/StarterContent/3Dmodels/misc/texture'
+[2020.02.07-01.07.41:016][587]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\samue_000\Desktop\barrier\texture.jpg
+[2020.02.07-01.07.41:018][587]LogMaterial: Display: Missing cached shader map for material barrier, compiling. 
+[2020.02.07-01.07.41:029][587]LogFbx: Display: Triangulating static mesh barrier.002
+[2020.02.07-01.07.41:047][587]LogStaticMesh: Building static mesh barrier_barrier_002...
+[2020.02.07-01.07.41:049][587]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/misc/barrier_barrier_002.barrier_barrier_002
+[2020.02.07-01.07.41:054][587]LogFbx: Display: Triangulating static mesh barrier.001
+[2020.02.07-01.07.41:056][587]LogStaticMesh: Building static mesh barrier_barrier_001...
+[2020.02.07-01.07.41:060][587]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/misc/barrier_barrier_001.barrier_barrier_001
+[2020.02.07-01.07.41:067][587]LogFbx: Display: Triangulating static mesh barrier
+[2020.02.07-01.07.41:068][587]LogStaticMesh: Building static mesh barrier_barrier...
+[2020.02.07-01.07.41:070][587]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/3Dmodels/misc/barrier_barrier.barrier_barrier
+[2020.02.07-01.07.41:079][587]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.07-01.07.43:269][834]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-01.07.43:274][834]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-01.07.53:745][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.07.53:908][106]LogActorFactory: Actor Factory created barrier_barrier_002
+[2020.02.07-01.07.56:201][380]LogActorFactory: Actor Factory created barrier_barrier_002
+[2020.02.07-01.08.19:547][114]Cmd: DUPLICATE
+[2020.02.07-01.08.19:547][114]Cmd: ACTOR DUPLICATE
+[2020.02.07-01.08.29:204][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrier_barrier_002)
+[2020.02.07-01.08.32:613][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.08.43:766][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.08.45:760][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.09.12:604][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.09.16:777][944]LogActorFactory: Actor Factory created barrier_barrier_002
+[2020.02.07-01.09.20:133][345]LogActorFactory: Actor Factory created barrier_barrier_002
+[2020.02.07-01.09.33:716][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.09.38:084][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrier_barrier_4)
+[2020.02.07-01.09.56:935][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.10.41:748][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.10.47:705][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.10.59:728][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrier_barrier_4)
+[2020.02.07-01.11.03:058][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.11.10:118][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-01.11.17:282][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-01.11.18:083][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.07-01.11.18:093][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-01.11.18:119][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.02.07-01.11.18:415][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/SetDressing2A2B1D294FACD52BB12CA1BA463012D5.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/ThirdPersonBP/Maps/SetDressing.umap'
+[2020.02.07-01.11.18:443][320]LogFileHelpers: Saving map 'SetDressing' took 0.346
+[2020.02.07-01.11.18:466][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier_barrier_0010A9D1A4D4067D56C535C9DB4523643F9.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier_barrier_001.uasset'
+[2020.02.07-01.11.18:492][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Plane_2A899B293417E19C2A166B8AD53E3366F.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Plane_2.uasset'
+[2020.02.07-01.11.18:516][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Mat_395991E1A4F8709473FA08B8095AF06BE.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Mat_3.uasset'
+[2020.02.07-01.11.18:556][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Top__P_aC604131D49868DDF29A32F89718D9CBF.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Top__P_axis_oº_to__253º_.uasset'
+[2020.02.07-01.11.18:581][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Green5908F9584A3F2710A42FE4B2067293B5.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Green.uasset'
+[2020.02.07-01.11.18:629][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_BOX73438B4F4439746820323E86CC53E50C.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_BOX.uasset'
+[2020.02.07-01.11.18:657][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_BOX_2FD7D7AEC4AF6320CD6D86E9F36FAE0CF.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_BOX_2.uasset'
+[2020.02.07-01.11.18:681][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/BlackE868164A4DA990A6798F39A31FFC36FC.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Black.uasset'
+[2020.02.07-01.11.18:713][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Truck_coB2BCCC5D40A4241BF6E8A68EFC8CC962.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Truck_conections.uasset'
+[2020.02.07-01.11.18:748][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Truck_coBED1390F4AE1FABA6C12AF84B8B0E4FE.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Truck_conections_2.uasset'
+[2020.02.07-01.11.18:773][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_CylinderA86E964744F44DA7A00D4993C8B1A3DD.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder.uasset'
+[2020.02.07-01.11.18:797][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_PolygonEA85588D42F76FC55BCA16AEE9E3EBD4.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon.uasset'
+[2020.02.07-01.11.18:823][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder83300BD34F4895D37CD01EBBC3708A3B.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_2.uasset'
+[2020.02.07-01.11.18:849][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/rubber06FBBDF14A52AB38BA82E0A78A756B50.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/rubber.uasset'
+[2020.02.07-01.11.18:880][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder66728B074787FF55EAD3B6AC383935B6.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_3.uasset'
+[2020.02.07-01.11.18:904][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/plasticEC9205644F1FBBF4237631A952164784.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/plastic.uasset'
+[2020.02.07-01.11.18:935][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Torus_1E1C0959F44246F49C253A0B4FBF5DCF8.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1.uasset'
+[2020.02.07-01.11.18:959][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_CylinderF7D054E041977A314EAF92A45788A690.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_4.uasset'
+[2020.02.07-01.11.18:984][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Polygon_C0041D2148A1B8BDC1B2A0AD6C7B34BF.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon_2.uasset'
+[2020.02.07-01.11.19:010][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder35622089470F0E64705B55AD49A5C124.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_5.uasset'
+[2020.02.07-01.11.19:040][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder2DE8CA5240C23C314417939CB7BC2388.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_6.uasset'
+[2020.02.07-01.11.19:072][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Torus_1_A0F538E541AE1BC2298A46848DE5117D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1_2.uasset'
+[2020.02.07-01.11.19:096][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_CylinderE554E88D44415ED9577BA98CCF473098.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_7.uasset'
+[2020.02.07-01.11.19:123][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Polygon_9B92333C4B324B1D09F528AF93AA6D3F.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon_3.uasset'
+[2020.02.07-01.11.19:148][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder399BFF744FE442CE45B9BC9A42B6D0AA.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_8.uasset'
+[2020.02.07-01.11.19:177][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_CylinderD2338F99423D98AAEED11E92C7CFB041.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_9.uasset'
+[2020.02.07-01.11.19:210][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Torus_1_D2C009F34AA7D4C9A5EA2C8C100907CE.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1_3.uasset'
+[2020.02.07-01.11.19:238][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder1F51BAB84F7CEBD93B062EBC308D7497.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_10.uasset'
+[2020.02.07-01.11.19:263][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Polygon_9719F0A543BB15C4C4292CA5C8854227.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Polygon_4.uasset'
+[2020.02.07-01.11.19:289][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_CylinderD9F4CD3040EFBBDF8E677C878E4FC38D.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_11.uasset'
+[2020.02.07-01.11.19:318][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Cylinder6F81CB6A4DF31224B8F22CB1AE5937DE.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Cylinder_12.uasset'
+[2020.02.07-01.11.19:350][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/Dumpster_800LSubDivLev1_Torus_1_2ED709E5443A2C2843E043A124ABAD6C.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/dumpster/Dumpster_800LSubDivLev1_Torus_1_4.uasset'
+[2020.02.07-01.11.19:374][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier93E2359E407E3B6680FB16B1EA5F6A47.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier.uasset'
+[2020.02.07-01.11.19:402][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier_barrier_00220AB46A94D43867E23BF41998DFC8EBF.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier_barrier_002.uasset'
+[2020.02.07-01.11.19:426][320]LogSavePackage: Moving '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Saved/barrier_barrierBA63AA024874C4DE661F0CB29F191818.tmp' to '../../../../../../../Users/tlbender/Documents/GitHub/Bender_SetDressing/Bender_Set_Dressing/Content/StarterContent/3Dmodels/misc/barrier_barrier.uasset'
